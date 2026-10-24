@@ -32,10 +32,13 @@ export async function isReady(db, version) {
 }
 
 // 下载并分块保存。onProgress(已下载字节, 总字节)
-export async function downloadMap(db, url, version, { fetchFn = fetch, onProgress = () => {} } = {}) {
+// expectedSize：真实文件大小（来自 map.json）。服务器常常压缩传送（例如 GitHub Pages 用 gzip），
+// 这时 content-length 是“压缩后”的大小，和收到的（已解压）字节数对不上，所以以 expectedSize 为准。
+export async function downloadMap(db, url, version, { fetchFn = fetch, onProgress = () => {}, expectedSize = null } = {}) {
   const res = await fetchFn(url, { cache: 'no-store' });
   if (!res.ok) throw new Error('离线地图下载失败（' + res.status + '）');
-  const total = Number(res.headers.get('content-length')) || 0;
+  const compressed = Boolean(res.headers.get('content-encoding'));
+  const total = expectedSize ?? (compressed ? 0 : Number(res.headers.get('content-length')) || 0);
   {
     const tx = db.transaction(['chunks', 'meta'], 'readwrite');
     tx.objectStore('chunks').clear();
@@ -73,7 +76,7 @@ export async function downloadMap(db, url, version, { fetchFn = fetch, onProgres
     onProgress(loaded, total);
   }
   await flush();
-  if (total && loaded !== total) throw new Error('离线地图下载不完整，请重试');
+  if (total && loaded !== total) throw new Error(`离线地图下载不完整（收到 ${loaded} / ${total} 字节），请重试`);
   const tx = db.transaction('meta', 'readwrite');
   tx.objectStore('meta').put({ version, complete: true, size: loaded, chunks: index }, 'file');
   await done(tx);

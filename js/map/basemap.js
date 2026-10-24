@@ -34,7 +34,7 @@ export function prepareMap({ onProgress } = {}) {
     const meta = await (await fetch('map/map.json')).json();
     const db = await openMapDB();
     if (!(await isReady(db, meta.version))) {
-      await downloadMap(db, 'map/' + meta.file, meta.version, { onProgress });
+      await downloadMap(db, 'map/' + meta.file, meta.version, { onProgress, expectedSize: meta.size });
     }
     const protocol = new window.pmtiles.Protocol();
     maplibregl.addProtocol('pmtiles', protocol.tile);

@@ -1,6 +1,6 @@
 // 离线功能：第一次打开时把整个 App（含景点资料和图片）存进手机，之后不联网也能用。
 // VERSION 由 tools/build.mjs 按文件内容自动更新；内容一变，手机下次联网打开时就会更新。
-const VERSION = 'bef8fd261a93';
+const VERSION = '6160642b3671';
 const CACHE = 'jordan-checkin-' + VERSION;
 
 self.addEventListener('install', (event) => {
