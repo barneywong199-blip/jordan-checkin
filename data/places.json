@@ -1,0 +1,2430 @@
+[
+  {
+    "id": "hashem-restaurant",
+    "name": {
+      "zh": "哈希姆餐厅",
+      "en": "Hashem Restaurant",
+      "ar": "مطعم هاشم"
+    },
+    "category": "food",
+    "type": "餐厅",
+    "region": "amman",
+    "area": "安曼 · 市中心（Downtown）",
+    "coords": {
+      "lat": 31.9523,
+      "lng": 35.9319
+    },
+    "why": "1952 年开业的市中心老店，露天巷子里坐满本地人和游客，几乎没有菜单，坐下就上一桌。被很多人认为是安曼最好的炸豆丸，便宜、快、地道，是约旦早餐的标准答案。",
+    "signature": [
+      "炸豆丸 falafel（鹰嘴豆或蚕豆糊炸成的小丸子）",
+      "鹰嘴豆泥 hummus（鹰嘴豆芝麻酱泥）",
+      "fool / ful（炖蚕豆泥）",
+      "薄荷甜茶"
+    ],
+    "price": "约 2–4 JOD / 人（估计）",
+    "hours": "24 小时（多份资料所载，建议出发前确认）",
+    "address": "Alley off King Faisal St / Prince Mohammad St, Downtown, Amman",
+    "since": "1952",
+    "wiki": null,
+    "sources": [
+      "https://www.saveur.com/hashem-restaurant-jordan",
+      "https://pixidia.com/restauration/hashem-restaurant/",
+      "https://www.happycow.net/reviews/hashem-amman-21505"
+    ],
+    "checked": "2026-10",
+    "popularity": {
+      "instagram": {
+        "handle": "@hashem.rests.jo",
+        "followers": 3245,
+        "note": "约 3,245 粉丝（Instagram 页面，2026-10 查询）；官网链接的官方账号，粉丝不多，人气主要来自媒体与博主报道"
+      },
+      "google": {
+        "rating": 4.1,
+        "reviews": 25079,
+        "note": "Google 地图 4.1 分（约 2.5 万条评价），2026-10 查询"
+      },
+      "checked": "2026-10"
+    },
+    "areaLocal": {
+      "en": "Amman · Downtown",
+      "ar": "عمّان · وسط البلد"
+    }
+  },
+  {
+    "id": "habibah-sweets-downtown",
+    "name": {
+      "zh": "哈比巴甜点（市中心老店）",
+      "en": "Habibah Sweets (Downtown)",
+      "ar": "حلويات حبيبة"
+    },
+    "category": "food",
+    "type": "甜点",
+    "region": "amman",
+    "area": "安曼 · 市中心（Downtown）",
+    "coords": {
+      "lat": 31.952,
+      "lng": 35.9334
+    },
+    "why": "安曼最出名的 knafeh 老字号，原店藏在阿拉伯银行旁的小巷里，永远排队但出餐很快。站在巷口吃一块热腾腾、拉丝的纳布卢斯式 knafeh，是逛市中心的固定节目。2026 年 7 月还在 Abdoun 开了第五家分店，经营稳定。",
+    "signature": [
+      "knafeh nabulsiyeh（纳布卢斯式奶酪酥，热奶酪配细丝面皮、浇糖浆）",
+      "各式阿拉伯甜点"
+    ],
+    "price": "约 1–2 JOD / 人",
+    "hours": null,
+    "address": "Arab Bank alley (Mahmoud Habibah St), off King Hussein St, Downtown, Amman",
+    "since": "1951",
+    "wiki": null,
+    "sources": [
+      "https://www.jordannews.jo/Section-113/All/Habibah-Sweets-Continues-Its-Expansion-with-the-Opening-of-Its-Fifth-Branch-in-Jordan-at-Abdoun-Corridor-53484",
+      "https://www.lonelyplanet.com/articles/best-kunafeh-amman"
+    ],
+    "checked": "2026-10",
+    "popularity": {
+      "instagram": {
+        "handle": "@habibah_sweets",
+        "followers": 151000,
+        "note": "约 15.1 万粉丝（Instagram 页面，2026-10 查询）；官网链接的品牌总账号（另有 @habibahsweets 约 1.3 万）"
+      },
+      "google": {
+        "rating": 4.5,
+        "reviews": 10188,
+        "note": "Google 地图 4.5 分（约 1 万条评价），2026-10 查询（市中心店；同区另一条 Google 条目 4.5 分 / 约 4000 条）"
+      },
+      "checked": "2026-10"
+    },
+    "areaLocal": {
+      "en": "Amman · Downtown",
+      "ar": "عمّان · وسط البلد"
+    }
+  },
+  {
+    "id": "sufra-restaurant",
+    "name": {
+      "zh": "苏弗拉餐厅",
+      "en": "Sufra Restaurant",
+      "ar": "مطعم سفرة"
+    },
+    "category": "food",
+    "type": "餐厅",
+    "region": "amman",
+    "area": "安曼 · 彩虹街（Rainbow Street）",
+    "coords": {
+      "lat": 31.9493,
+      "lng": 35.9291
+    },
+    "why": "开在彩虹街一栋老宅里的约旦家常菜馆，带花园座位，适合请朋友吃一顿“像样的约旦菜”。菜色齐全，mansaf 和各种传统炖菜都有，周五、周六还有传统早餐。",
+    "signature": [
+      "mansaf（羊肉配发酵酸奶汤汁和米饭，约旦国菜）",
+      "maqluba（“倒扣饭”，肉、茄子、米饭焖好后倒扣上桌）",
+      "各式冷热前菜 mezze（小碟拼盘）"
+    ],
+    "price": "约 15–25 JOD / 人（估计）",
+    "hours": "晚餐每日 17:00–23:30；周日至周四另有午餐 12:00–17:00；周五、周六上午供应早餐（各平台略有出入）",
+    "address": "26 Rainbow St (Building No. 23), Jabal Amman, Amman",
+    "since": "2011",
+    "wiki": null,
+    "sources": [
+      "https://www.opentable.sg/r/sufra-restaurant-amman",
+      "https://www.tripadvisor.com/ShowUserReviews-g293986-d2406112-r401617031-Sufra_Restaurant-Amman_Amman_Governorate.html"
+    ],
+    "checked": "2026-10",
+    "popularity": {
+      "instagram": {
+        "handle": "@sufrarestaurant.jo",
+        "followers": 32000,
+        "note": "约 3.2 万粉丝（Instagram 页面，2026-10 查询）；Romero 集团官网链接"
+      },
+      "google": {
+        "rating": 4.2,
+        "reviews": 4627,
+        "note": "Google 地图 4.2 分（约 4,627条评价），2026-10 查询"
+      },
+      "checked": "2026-10"
+    },
+    "areaLocal": {
+      "en": "Amman · Rainbow Street",
+      "ar": "عمّان · شارع الرينبو"
+    }
+  },
+  {
+    "id": "al-quds-restaurant",
+    "name": {
+      "zh": "耶路撒冷餐厅（Al-Quds）",
+      "en": "Al-Quds Restaurant",
+      "ar": "مطعم القدس"
+    },
+    "category": "food",
+    "type": "餐厅",
+    "region": "amman",
+    "area": "安曼 · 市中心（Downtown）",
+    "coords": {
+      "lat": 31.9527,
+      "lng": 35.9324
+    },
+    "why": "市中心老牌平民馆子，招牌上也写着 Jerusalem Restaurant，以分量足、价格实在的 mansaf 闻名。环境朴素热闹，前面还卖阿拉伯甜点，适合想吃“本地人吃的 mansaf”时来。",
+    "signature": [
+      "mansaf（羊肉配发酵酸奶汤汁和米饭，约旦国菜）",
+      "kofta 配芝麻酱（烤肉末配 tahini 酱）",
+      "knafeh（奶酪酥甜点）"
+    ],
+    "price": "约 6–10 JOD / 人（估计）",
+    "hours": null,
+    "address": "Complex No. 8, King Hussein St, Downtown, Amman",
+    "since": null,
+    "wiki": null,
+    "sources": [
+      "https://www.tripadvisor.co.uk/Restaurant_Review-g293986-d2429468-Reviews-Al_Quds-Amman_Amman_Governorate.html",
+      "https://www.theculturetrip.com/articles/the-5-best-restaurants-in-downtown-amman"
+    ],
+    "checked": "2026-10",
+    "popularity": {
+      "instagram": {
+        "handle": "@alqudsrestaurant",
+        "followers": 7918,
+        "note": "约 7,918 粉丝（Instagram 页面，2026-10 查询）；账号名 AlQuds Aljadeed Restaurant，与官网同名"
+      },
+      "google": {
+        "rating": 3.9,
+        "reviews": 5493,
+        "note": "Google 地图 3.9 分（约 5,493条评价），2026-10 查询"
+      },
+      "checked": "2026-10"
+    },
+    "areaLocal": {
+      "en": "Amman · Downtown",
+      "ar": "عمّان · وسط البلد"
+    }
+  },
+  {
+    "id": "shawerma-reem",
+    "name": {
+      "zh": "里姆沙威玛",
+      "en": "Shawerma Reem",
+      "ar": "شاورما ريم"
+    },
+    "category": "food",
+    "type": "街头小吃",
+    "region": "amman",
+    "area": "安曼 · 第二环岛（2nd Circle）",
+    "coords": {
+      "lat": 31.9519,
+      "lng": 35.9153
+    },
+    "why": "1975 年起就守在第二环岛的红白棚子小摊，只卖一种沙威玛卷，深夜也排长队，是安曼人心中的“城市名片”。没有座位，买了站在路边吃。口碑有起伏（偶有肉质、卫生的批评），但地位仍在。",
+    "signature": [
+      "shawarma（沙威玛，旋转烤肉薄饼卷）"
+    ],
+    "price": "约 1–3 JOD / 人",
+    "hours": null,
+    "address": "2nd Circle, Jabal Amman, Amman",
+    "since": "1975",
+    "wiki": null,
+    "sources": [
+      "https://www.jordannews.jo/Section-101/Good-Food/How-Shawerma-Reem-became-a-Jordanian-institution-6408",
+      "https://www.tripadvisor.co.uk/Restaurant_Review-g293986-d7230345-Reviews-Shawerma_Reem-Amman_Amman_Governorate.html"
+    ],
+    "checked": "2026-10",
+    "popularity": {
+      "instagram": {
+        "handle": "@shawermareem1975",
+        "followers": 19000,
+        "note": "约 1.9 万粉丝（Instagram 页面，2026-10 查询）；简介写 1975 年起于安曼山"
+      },
+      "google": {
+        "rating": 4.1,
+        "reviews": 9015,
+        "note": "Google 地图 4.1 分（约 9,015条评价），2026-10 查询"
+      },
+      "checked": "2026-10"
+    },
+    "areaLocal": {
+      "en": "Amman · 2nd Circle",
+      "ar": "عمّان · الدوار الثاني"
+    }
+  },
+  {
+    "id": "jafra-cafe",
+    "name": {
+      "zh": "贾弗拉餐厅咖啡馆",
+      "en": "Jafra Restaurant & Cafe",
+      "ar": "مطعم ومقهى جفرا"
+    },
+    "category": "food",
+    "type": "咖啡馆",
+    "region": "amman",
+    "area": "安曼 · 市中心（Downtown）",
+    "coords": {
+      "lat": 31.9523,
+      "lng": 35.9307
+    },
+    "why": "市中心楼上的老派咖啡馆兼餐厅，墙上挂满老照片、旧招牌和打字机，晚上常有阿拉伯现场音乐。本地人和游客都爱来喝茶、抽水烟、吃家常菜，2026 年仍有大量新评价。",
+    "signature": [
+      "fukhara（陶罐焖肉或焖菜）",
+      "kofta（烤肉末）",
+      "freekeh（烟熏青麦饭）",
+      "阿拉伯咖啡与薄荷茶"
+    ],
+    "price": "约 5–10 JOD / 人",
+    "hours": "约 9:00–次日 2:00（旧资料，建议确认）",
+    "address": "Prince Mohammad St, Downtown, Amman（从商场通道上楼）",
+    "since": null,
+    "wiki": null,
+    "sources": [
+      "https://www.tripadvisor.co.uk/Restaurant_Review-g293986-d1522911-Reviews-Jafra_Restaurant_Cafe-Amman_Amman_Governorate.html",
+      "https://www.theculturetrip.com/asia/jordan/amman/articles/the-6-best-cafes-in-amman"
+    ],
+    "checked": "2026-10",
+    "popularity": {
+      "instagram": {
+        "handle": null,
+        "followers": null,
+        "note": "未找到可确认的官方 Instagram 账号"
+      },
+      "google": {
+        "rating": 4.5,
+        "reviews": 613,
+        "note": "Google 地图 4.5 分（约 613条评价），2026-10 查询"
+      },
+      "checked": "2026-10"
+    },
+    "areaLocal": {
+      "en": "Amman · Downtown",
+      "ar": "عمّان · وسط البلد"
+    }
+  },
+  {
+    "id": "shams-el-balad",
+    "name": {
+      "zh": "沙姆斯巴拉德",
+      "en": "Shams El Balad",
+      "ar": "شمس البلد"
+    },
+    "category": "food",
+    "type": "餐厅",
+    "region": "amman",
+    "area": "安曼 · 安曼山（Jabal Amman）",
+    "coords": {
+      "lat": 31.9506,
+      "lng": 35.9273
+    },
+    "why": "从花店起家的创意约旦菜餐厅，面包用本地古老品种小麦自己烤，素食选择很多。被评为“2026 约旦最佳餐厅”，入选中东北非 50 佳餐厅榜。不是老店，但口碑最稳定的新派代表。",
+    "signature": [
+      "自家烤制的传统面包",
+      "当季约旦与地中海风味菜",
+      "丰富的素食菜式"
+    ],
+    "price": "未查到",
+    "hours": "每日 10:00–23:30",
+    "address": "69 Mu'ath Bin Jabal St, Jabal Amman, Amman",
+    "since": null,
+    "wiki": null,
+    "sources": [
+      "https://www.theworlds50best.com/discovery/Establishments/Jordan/Amman/Shams-El-Balad.html"
+    ],
+    "checked": "2026-10",
+    "popularity": {
+      "instagram": {
+        "handle": "@shamselbalad",
+        "followers": 51000,
+        "note": "约 5.1 万粉丝（Instagram 页面，2026-10 查询）"
+      },
+      "google": {
+        "rating": 4.2,
+        "reviews": 3266,
+        "note": "Google 地图 4.2 分（约 3,266条评价），2026-10 查询"
+      },
+      "checked": "2026-10"
+    },
+    "areaLocal": {
+      "en": "Amman · Jabal Amman",
+      "ar": "عمّان · جبل عمّان"
+    }
+  },
+  {
+    "id": "fakhreldin",
+    "name": {
+      "zh": "法赫尔丁餐厅",
+      "en": "Fakhreldin",
+      "ar": "مطعم فخر الدين"
+    },
+    "category": "food",
+    "type": "餐厅",
+    "region": "amman",
+    "area": "安曼 · 安曼山（Jabal Amman）",
+    "coords": {
+      "lat": 31.9522,
+      "lng": 35.9203
+    },
+    "why": "1997 年开业，设在前首相穆尔基家族的老别墅里，有花园座位。安曼最有名的高档黎巴嫩 / 黎凡特菜，多年入选中东北非 50 佳餐厅，适合宴请或纪念日。建议提前订位。",
+    "signature": [
+      "各式 mezze（冷热前菜小碟）",
+      "kibbeh nayeh（生羊肉碎拌碎麦，黎巴嫩名菜）",
+      "炭烤肉串拼盘"
+    ],
+    "price": "约 25–35 JOD / 人",
+    "hours": null,
+    "address": "Taha Hussein St, between 1st & 2nd Circle, Jabal Amman, Amman",
+    "since": "1997",
+    "wiki": null,
+    "sources": [
+      "https://www.theworlds50best.com/mena/en/the-list/Fakhreldin.html",
+      "https://www.rj.com/tr/explore-jordan/taste-of-jordan/fine-dining/fakhreldin"
+    ],
+    "checked": "2026-10",
+    "popularity": {
+      "instagram": {
+        "handle": "@fakhreldinrestaurant",
+        "followers": 29000,
+        "note": "约 2.9 万粉丝（Instagram 页面，2026-10 查询）；官网链接的官方账号"
+      },
+      "google": {
+        "rating": 4.5,
+        "reviews": 5650,
+        "note": "Google 地图 4.5 分（约 5,650条评价），2026-10 查询"
+      },
+      "checked": "2026-10"
+    },
+    "areaLocal": {
+      "en": "Amman · Jabal Amman",
+      "ar": "عمّان · جبل عمّان"
+    }
+  },
+  {
+    "id": "tawaheen-al-hawa",
+    "name": {
+      "zh": "风车餐厅（Tawaheen al-Hawa）",
+      "en": "Tawaheen Al-Hawa",
+      "ar": "مطعم طواحين الهوا"
+    },
+    "category": "food",
+    "type": "餐厅",
+    "region": "amman",
+    "area": "安曼 · 特拉阿里（Tla' Al-Ali）",
+    "coords": {
+      "lat": 31.9921,
+      "lng": 35.8671
+    },
+    "why": "安曼西区的大型约旦传统菜馆，本地人家庭聚餐的热门选择，前菜种类多、烤肉和 mansaf 都受好评。评价数量上万，2026 年评价有好有坏，周末人多。",
+    "signature": [
+      "mezze（冷热前菜小碟）",
+      "mixed grill（烤肉拼盘）",
+      "mansaf（羊肉配发酵酸奶汤汁和米饭，约旦国菜）"
+    ],
+    "price": "未查到",
+    "hours": "每日约 12:00–24:00（旧资料）",
+    "address": "170 Gardens St, Tla' Al-Ali, Amman",
+    "since": null,
+    "wiki": null,
+    "sources": [
+      "https://www.tripadvisor.com/Restaurant_Review-g293986-d1641029-Reviews-Tawaheen_Al_Hawa-Amman_Amman_Governorate.html",
+      "https://foodle.pro/restaurants/amman/tawaheen-alhawa"
+    ],
+    "checked": "2026-10",
+    "popularity": {
+      "instagram": {
+        "handle": "@tawaheen_alhawa",
+        "followers": 71000,
+        "note": "约 7.1 万粉丝（Instagram 页面，2026-10 查询）；官网链接的官方账号"
+      },
+      "google": {
+        "rating": 4.3,
+        "reviews": 12262,
+        "note": "Google 地图 4.3 分（约 1.2 万条评价），2026-10 查询"
+      },
+      "checked": "2026-10"
+    },
+    "areaLocal": {
+      "en": "Amman · Tla' Al-Ali",
+      "ar": "عمّان · تلاع العلي"
+    }
+  },
+  {
+    "id": "wild-jordan-house",
+    "name": {
+      "zh": "野性约旦之家（Jear 餐厅）",
+      "en": "Wild Jordan House (Jear Restaurant)",
+      "ar": "بيت برية الأردن"
+    },
+    "category": "food",
+    "type": "观景",
+    "region": "amman",
+    "area": "安曼 · 安曼山（Jabal Amman）",
+    "coords": {
+      "lat": 31.9512,
+      "lng": 35.9308
+    },
+    "why": "皇家自然保护协会（RSCN）的城市据点，正对城堡山和大国旗，是安曼看城景最好的露台之一。原 Wild Jordan Center 咖啡馆经翻修，2026 年 9 月 1 日以 Wild Jordan House 重新开放，餐厅改名 Jear，另有自然商店卖保护区社区妇女做的手工品。",
+    "signature": [
+      "正对城堡山的露台景观",
+      "Jear 餐厅：传统约旦菜的新式做法",
+      "Nature Shop（保护区社区手工皂、草本、陶器）"
+    ],
+    "price": "未查到",
+    "hours": null,
+    "address": "36 Othman Bin Affan St, Jabal Amman, Amman",
+    "since": null,
+    "wiki": null,
+    "sources": [
+      "https://petra.gov.jo/cgi-bin/index.php/en/news/wild-jordan-house-reopens-after-renovation-as-expanded-ecotourism-destination-1",
+      "https://atico-jo.com/wild-jordan/"
+    ],
+    "checked": "2026-10",
+    "popularity": {
+      "instagram": {
+        "handle": "@wildjordanhouse",
+        "followers": 206,
+        "note": "约 206 粉丝（Instagram 页面，2026-10 查询）；官网链接的新账号（更名后），粉丝很少"
+      },
+      "google": {
+        "rating": 4.4,
+        "reviews": 3432,
+        "note": "Google 地图 4.4 分（约 3,432条评价），2026-10 查询"
+      },
+      "checked": "2026-10"
+    },
+    "areaLocal": {
+      "en": "Amman · Jabal Amman",
+      "ar": "عمّان · جبل عمّان"
+    }
+  },
+  {
+    "id": "al-pasha-turkish-bath",
+    "name": {
+      "zh": "帕夏土耳其浴",
+      "en": "Al-Pasha Turkish Bath",
+      "ar": "حمام الباشا التركي"
+    },
+    "category": "food",
+    "type": "土耳其浴",
+    "region": "amman",
+    "area": "安曼 · 安曼山（Jabal Amman，近彩虹街）",
+    "coords": {
+      "lat": 31.9476,
+      "lng": 35.9287
+    },
+    "why": "安曼最有名的传统土耳其浴（hammam），基本套餐包含蒸汽房、桑拿、按摩池、搓澡和按摩，2026 年仍有不少好评。设施偏旧、有人觉得高价套餐不值，选基本套餐性价比最好。",
+    "signature": [
+      "hammam（土耳其浴：蒸汽 + 搓澡）",
+      "搓澡与精油按摩",
+      "附设餐厅"
+    ],
+    "price": "基本套餐约 25 JOD / 人；高级套餐约 40 JOD / 人（2025 年评价）",
+    "hours": null,
+    "address": "7 Al-Mahmoud Taha St, Jabal Amman, Amman",
+    "since": null,
+    "wiki": null,
+    "sources": [
+      "https://www.tripadvisor.com/Attraction_Review-g293986-d2436617-Reviews-Al_Pasha_Restaurant_and_Turkish_Bath-Amman_Amman_Governorate.html"
+    ],
+    "checked": "2026-10",
+    "popularity": {
+      "instagram": {
+        "handle": "@pashaturkishbath",
+        "followers": 18000,
+        "note": "约 1.8 万粉丝（Instagram 页面，2026-10 查询）；账号名 AlPasha_Turkish_Bath"
+      },
+      "google": {
+        "rating": 4.8,
+        "reviews": 3302,
+        "note": "Google 地图 4.8 分（约 3,302条评价），2026-10 查询"
+      },
+      "checked": "2026-10"
+    },
+    "areaLocal": {
+      "en": "Amman · Jabal Amman (near Rainbow Street)",
+      "ar": "عمّان · جبل عمّان (قرب شارع الرينبو)"
+    }
+  },
+  {
+    "id": "al-quds-falafel",
+    "name": {
+      "zh": "耶路撒冷炸豆丸（彩虹街）",
+      "en": "Al-Quds Falafel",
+      "ar": "فلافل القدس"
+    },
+    "category": "food",
+    "type": "街头小吃",
+    "region": "amman",
+    "area": "安曼 · 彩虹街（Rainbow Street）",
+    "coords": {
+      "lat": 31.9495,
+      "lng": 35.9266
+    },
+    "why": "1966 年开业的彩虹街小窗口，只卖炸豆丸三明治，家族两代经营。芝麻面包夹现炸豆丸、酸菜和芝麻酱，不到 1 JOD，逛彩虹街顺手一个。",
+    "signature": [
+      "falafel 三明治（芝麻面包夹现炸豆丸、酸黄瓜、tahini 芝麻酱）"
+    ],
+    "price": "约 0.5–1 JOD / 人",
+    "hours": "约 8:00–22:00（平台资料，建议确认）",
+    "address": "Rainbow St (opposite Abdul Aziz Jawish St), Jabal Amman, Amman",
+    "since": "1966",
+    "wiki": null,
+    "sources": [
+      "https://voicemap.me/tour/amman/explore-amman-s-famous-rainbow-street/sites/al-quds-famous-falafel",
+      "https://www.tripadvisor.com/Restaurant_Review-g293986-d2277785-Reviews-Al_Quds_Falafel-Amman_Amman_Governorate.html"
+    ],
+    "checked": "2026-10",
+    "popularity": {
+      "instagram": {
+        "handle": "@falafelalquds",
+        "followers": 6958,
+        "note": "约 6,958 粉丝（Instagram 页面，2026-10 查询）；简介写 1966 年起，分店在彩虹街和 Boulevard"
+      },
+      "google": {
+        "rating": 4.4,
+        "reviews": 2304,
+        "note": "Google 地图 4.4 分（约 2,304条评价），2026-10 查询"
+      },
+      "checked": "2026-10"
+    },
+    "areaLocal": {
+      "en": "Amman · Rainbow Street",
+      "ar": "عمّان · شارع الرينبو"
+    }
+  },
+  {
+    "id": "zalatimo-brothers-shmeisani",
+    "name": {
+      "zh": "扎拉蒂莫兄弟甜点（什迈萨尼店）",
+      "en": "Zalatimo Brothers for Sweets (Shmeisani)",
+      "ar": "الأخوين زلاطيمو للحلويات"
+    },
+    "category": "food",
+    "type": "甜点",
+    "region": "amman",
+    "area": "安曼 · 什迈萨尼（Shmeisani）",
+    "coords": {
+      "lat": 31.9684,
+      "lng": 35.8963
+    },
+    "why": "扎拉蒂莫家族 1860 年在耶路撒冷做甜点起家，Zalatimo Brothers 1996 年在安曼创立，是送礼盒装 baklava 的首选之一；2026 年世界杯约旦队用它的甜点送礼而再度出名。注意：另有一家 Zalatimo Sweets 是不同公司。",
+    "signature": [
+      "mutabbaq（手抛薄饼皮包白奶酪的酥饼）",
+      "baklava（果仁千层酥）",
+      "礼盒装阿拉伯甜点"
+    ],
+    "price": "未查到",
+    "hours": "营业至约 22:00",
+    "address": "Al Shareef Abed Al Hameed Sharaf St, Shmeisani, Amman",
+    "since": "1996",
+    "wiki": null,
+    "sources": [
+      "https://www.thenationalnews.com/lifestyle/food/2026/06/30/jordans-world-cup-journey-puts-zalatimo-brothers-sweets-in-the-global-spotlight/",
+      "https://www.tripadvisor.com/Restaurant_Review-g293986-d9791521-Reviews-Zalatimo_Brothers_for_Sweets-Amman_Amman_Governorate.html"
+    ],
+    "checked": "2026-10",
+    "popularity": {
+      "instagram": {
+        "handle": "@zalatimobrothersforsweets",
+        "followers": 290000,
+        "note": "约 29万粉丝（Instagram 页面，2026-10 查询）；品牌总账号，简介写 1860 年起于耶路撒冷"
+      },
+      "google": {
+        "rating": 4.8,
+        "reviews": 4761,
+        "note": "Google 地图 4.8 分（约 4,761条评价），2026-10 查询（Shmeisani 店）"
+      },
+      "checked": "2026-10"
+    },
+    "areaLocal": {
+      "en": "Amman · Shmeisani",
+      "ar": "عمّان · الشميساني"
+    }
+  },
+  {
+    "id": "haret-jdoudna",
+    "name": {
+      "zh": "祖辈街坊餐厅（Haret Jdoudna）",
+      "en": "Haret Jdoudna",
+      "ar": "حارة جدودنا"
+    },
+    "category": "food",
+    "type": "餐厅",
+    "region": "madaba",
+    "area": "马达巴 · 老城（近圣乔治教堂）",
+    "coords": {
+      "lat": 31.7164,
+      "lng": 35.7935
+    },
+    "why": "马达巴最有名的餐厅，设在 20 世纪初前市长的老宅里，阿卜杜拉一世国王也曾到访。庭院用餐气氛好，步行可到马赛克地图教堂，看完地图正好来吃午饭。",
+    "signature": [
+      "mezze（冷热前菜小碟）",
+      "makdous（油浸小茄子塞核桃辣椒）",
+      "煎 halloumi（煎哈罗米奶酪）",
+      "mansaf（羊肉配发酵酸奶汤汁和米饭，约旦国菜）"
+    ],
+    "price": "未查到（评价普遍认为在马达巴偏贵）",
+    "hours": "约 10:00–次日 1:00（平台资料）",
+    "address": "King Talal St (Mosaic area), Madaba",
+    "since": null,
+    "wiki": null,
+    "sources": [
+      "https://www.tripadvisor.com/Restaurant_Review-g293989-d1508134-Reviews-Haret_Jdoudna-Madaba_Madaba_Governorate.html",
+      "https://indagare.com/restaurant/haret-jdoudna"
+    ],
+    "checked": "2026-10",
+    "popularity": {
+      "instagram": {
+        "handle": "@haret.jdoudna_",
+        "followers": 20000,
+        "note": "约 2 万粉丝（Instagram 页面 2026-10 查询；简介写 Since 1997）"
+      },
+      "google": {
+        "rating": 4.1,
+        "reviews": 2144,
+        "note": "Google 地图 4.1 分（约 2,100 条评价，2026-10 查询），低于新增门槛 4.3；Tripadvisor 4.2（1,330 条，Wanderlog 转引）"
+      },
+      "checked": "2026-10"
+    },
+    "areaLocal": {
+      "en": "Madaba · Old Town (near St George's Church)",
+      "ar": "مأدبا · البلدة القديمة (قرب كنيسة القديس جاورجيوس)"
+    }
+  },
+  {
+    "id": "ayola-cafe-madaba",
+    "name": {
+      "zh": "阿约拉咖啡馆",
+      "en": "Ayola Cafe",
+      "ar": "مطعم ايولا"
+    },
+    "category": "food",
+    "type": "咖啡馆",
+    "region": "madaba",
+    "area": "马达巴 · 老城（近圣乔治教堂）",
+    "coords": {
+      "lat": 31.718,
+      "lng": 35.7934
+    },
+    "why": "圣乔治教堂附近的平价小馆，沙威玛、馅饼、拿铁都有，是游客和本地人歇脚吃简餐的老地方。可能有人抽烟，介意的话坐靠门口。",
+    "signature": [
+      "shawarma（沙威玛卷）",
+      "fatayer（阿拉伯馅饼）",
+      "拿铁咖啡"
+    ],
+    "price": "未查到（平价）",
+    "hours": null,
+    "address": "Palestine St / Talal St, near St George's Church, Madaba",
+    "since": null,
+    "wiki": null,
+    "sources": [
+      "https://wanderlog.com/place/details/1297963/ayola-cafe",
+      "https://www.tripadvisor.com/Restaurants-g293989-Madaba_Madaba_Governorate.html"
+    ],
+    "checked": "2026-10",
+    "popularity": {
+      "instagram": {
+        "handle": "@ayola.jo",
+        "followers": 1758,
+        "note": "约 1,800 粉丝（Instagram 页面 2026-10 查询；简介写 Since 1994）"
+      },
+      "google": {
+        "rating": 4.6,
+        "reviews": 1121,
+        "note": "Google 地图 4.6 分（约 1,100 条评价，地图名「مطعم ايولا」，2026-10 查询）"
+      },
+      "checked": "2026-10"
+    },
+    "areaLocal": {
+      "en": "Madaba · Old Town (near St George's Church)",
+      "ar": "مأدبا · البلدة القديمة (قرب كنيسة القديس جاورجيوس)"
+    }
+  },
+  {
+    "id": "lebanese-house-jerash",
+    "name": {
+      "zh": "黎巴嫩之家（乌姆哈利勒）",
+      "en": "Lebanese House (Um Khalil)",
+      "ar": "البيت اللبناني (أم خليل)"
+    },
+    "category": "food",
+    "type": "餐厅",
+    "region": "north",
+    "area": "杰拉什 · 古城南侧",
+    "coords": {
+      "lat": 32.2673,
+      "lng": 35.8887
+    },
+    "why": "杰拉什最有名的餐厅，Tripadvisor 杰拉什第一，游完古城来这里吃大桌黎巴嫩前菜和烤肉。2026 年仍有不少好评，说分量大、选择多；周五人多、上菜可能慢。",
+    "signature": [
+      "mezze（冷热前菜小碟，品种很多）",
+      "烤肉串",
+      "labneh（浓缩酸奶）",
+      "mhallabiyeh（牛奶布丁）"
+    ],
+    "price": "未查到",
+    "hours": "约 12:00–24:00（平台资料）",
+    "address": "Near Bab Amman, south of the Jerash archaeological site, Jerash",
+    "since": null,
+    "wiki": null,
+    "sources": [
+      "https://www.tripadvisor.com/Restaurant_Review-g293988-d1644556-Reviews-Lebanese_House-Jerash_Jerash_Governorate.html",
+      "https://au.trip.com/restaurant/jordan/jerash/detail/Lebanese%20House%20Um%20Khalil%20Restaurant-19853780"
+    ],
+    "checked": "2026-10",
+    "popularity": {
+      "instagram": {
+        "handle": "@beytigroup",
+        "followers": 3310,
+        "note": "约 3,300 粉丝，为母公司 Beyti Group 账号（Um Khalil 与 Inas），非单店账号（2026-10 查询）"
+      },
+      "google": {
+        "rating": 4.3,
+        "reviews": 4415,
+        "note": "Google 地图 4.3 分（约 4,400 条评价，2026-10 查询）"
+      },
+      "checked": "2026-10"
+    },
+    "areaLocal": {
+      "en": "Jerash · South of the ancient city",
+      "ar": "جرش · جنوب المدينة الأثرية"
+    }
+  },
+  {
+    "id": "ajloun-soap-house-ranc",
+    "name": {
+      "zh": "阿杰隆皂坊与自然保护学院餐厅",
+      "en": "Orjan Soap House & RSCN Academy Restaurant",
+      "ar": "بيت الصابون والأكاديمية الملكية لحماية الطبيعة"
+    },
+    "category": "food",
+    "type": "体验",
+    "region": "north",
+    "area": "阿杰隆 · 森林保护区一带",
+    "coords": {
+      "lat": 32.377,
+      "lng": 35.7652
+    },
+    "why": "皇家自然保护协会（RSCN）支持的社区项目：本地妇女用橄榄油和石榴、蜂蜜、香草做手工皂，可以看示范、买 Orjan 手工皂。同一园区有学院的大餐厅，供应约旦农家菜，可以从保护区游客中心走“皂坊步道”过来。",
+    "signature": [
+      "Orjan 手工橄榄油皂（制作示范）",
+      "学院餐厅的约旦家常菜",
+      "皂坊步道（Soap House Trail）"
+    ],
+    "price": "皂坊参观含在步道费内；餐费未查到",
+    "hours": null,
+    "address": "Royal Academy for Nature Conservation, near Ajloun Forest Reserve, Ajloun",
+    "since": null,
+    "wiki": null,
+    "sources": [
+      "https://international.visitjordan.com/Wheretogo/Ajloun",
+      "https://www.rscn.org.jo/ranc?lang=en",
+      "https://wowjordan.com/en/visit-ajloun/ajloun-soap-house-trail/"
+    ],
+    "checked": "2026-10",
+    "popularity": {
+      "instagram": {
+        "handle": "@rscnjordan",
+        "followers": 29000,
+        "note": "约 2.9 万粉丝，为 RSCN（皇家自然保护协会）机构总账号，不是肥皂工坊或餐厅本身（2026-10 查询）"
+      },
+      "google": {
+        "rating": null,
+        "reviews": null,
+        "note": "Google 地图未查到肥皂工坊 / 学院餐厅的独立条目；参考：阿杰隆森林保护区 4.4 分（约 4,400 条评价，2026-10 查询）"
+      },
+      "checked": "2026-10"
+    },
+    "areaLocal": {
+      "en": "Ajloun · Forest Reserve area",
+      "ar": "عجلون · منطقة محمية الغابات"
+    }
+  },
+  {
+    "id": "petra-kitchen",
+    "name": {
+      "zh": "佩特拉厨房（烹饪课）",
+      "en": "Petra Kitchen",
+      "ar": "مطبخ البتراء"
+    },
+    "category": "food",
+    "type": "体验",
+    "region": "south",
+    "area": "佩特拉 · 瓦迪穆萨（Tourism Street）",
+    "coords": {
+      "lat": 30.3253,
+      "lng": 35.4713
+    },
+    "why": "离佩特拉入口步行几分钟的老牌烹饪课，每晚跟本地厨师一起做五六道约旦菜，做完一起吃晚饭，还送食谱。走了一天佩特拉之后很适合放松，也是认识其他旅客的机会。需要预约，人数不足可能不开课。",
+    "signature": [
+      "一起做 maqluba（倒扣饭）",
+      "hummus（鹰嘴豆泥）、baba ghanoush（烤茄子泥）",
+      "fattoush（面包脆片沙拉）"
+    ],
+    "price": "约 35 JOD / 人（含课程、晚餐和无酒精饮料）",
+    "hours": "课程 3–10 月 18:30 开始；11–2 月 18:00 开始",
+    "address": "Tourism St (Petra Boutique Hotel), Wadi Musa",
+    "since": null,
+    "wiki": null,
+    "sources": [
+      "https://www.petrakitchen.com",
+      "https://www.visitpetra.jo/en/Thingstodo/15",
+      "https://www.tripadvisor.com/Attraction_Review-g318895-d1144954-Reviews-Petra_Kitchen-Petra_Wadi_Musa_Ma_an_Governorate.html"
+    ],
+    "checked": "2026-10",
+    "popularity": {
+      "instagram": {
+        "handle": "@petrakitchen",
+        "followers": 683,
+        "note": "约 700 粉丝（Instagram 页面 2026-10 查询）"
+      },
+      "google": {
+        "rating": 4.5,
+        "reviews": 243,
+        "note": "Google 地图 4.5 分（243 条评价，2026-10 查询）；Tripadvisor 5.0（644 条，Wanderlog 转引）"
+      },
+      "checked": "2026-10"
+    },
+    "areaLocal": {
+      "en": "Petra · Wadi Musa (Tourism Street)",
+      "ar": "البترا · وادي موسى (الشارع السياحي)"
+    }
+  },
+  {
+    "id": "cave-bar-petra",
+    "name": {
+      "zh": "洞穴酒吧",
+      "en": "The Cave Bar",
+      "ar": "ذا كيف بار"
+    },
+    "category": "food",
+    "type": "其他",
+    "region": "south",
+    "area": "佩特拉 · 景区入口旁（Petra Guest House）",
+    "coords": {
+      "lat": 30.3237,
+      "lng": 35.4671
+    },
+    "why": "开在一座 2000 多年前纳巴泰古墓里的酒吧，号称“世界最古老的酒吧”（是营销说法）。就在佩特拉入口旁，看完 Petra by Night 或走了一天后来坐坐，气氛独特；餐点和服务评价一般，主要是来体验环境。",
+    "signature": [
+      "纳巴泰古墓里的洞穴座位",
+      "饮料与简餐"
+    ],
+    "price": "未查到（评价普遍认为偏贵）",
+    "hours": null,
+    "address": "Petra Guest House, Tourism St, Wadi Musa",
+    "since": null,
+    "wiki": null,
+    "sources": [
+      "https://wanderlog.com/place/details/38129/the-cave-bar",
+      "https://vinepair.com/wine-blog/drink-like-indiana-jones-in-this-2000-year-old-cave-bar-in-petra-jordan/"
+    ],
+    "checked": "2026-10",
+    "popularity": {
+      "instagram": {
+        "handle": "@guesthousepetra",
+        "followers": 5749,
+        "note": "约 5,700 粉丝，为所在酒店 Petra Guest House 账号（2026-10 查询）"
+      },
+      "google": {
+        "rating": 4.4,
+        "reviews": 943,
+        "note": "Google 地图 4.4 分（约 940 条评价，2026-10 查询）；Tripadvisor 4.5（3,735 条，Wanderlog 转引）"
+      },
+      "checked": "2026-10"
+    },
+    "areaLocal": {
+      "en": "Petra · by the site entrance (Petra Guest House)",
+      "ar": "البترا · قرب مدخل الموقع (استراحة البترا)"
+    }
+  },
+  {
+    "id": "al-qantarah-wadi-musa",
+    "name": {
+      "zh": "坎塔拉自助餐厅",
+      "en": "Al Qantarah Restaurant",
+      "ar": "مطعم القنطرة"
+    },
+    "category": "food",
+    "type": "餐厅",
+    "region": "south",
+    "area": "佩特拉 · 瓦迪穆萨（Tourism Street）",
+    "coords": {
+      "lat": 30.3279,
+      "lng": 35.4706
+    },
+    "why": "瓦迪穆萨的老牌约旦菜自助餐厅，两层楼可容纳数百人，旅行团和本地人都常来。午餐自助菜色多、价格实在，一次能尝到很多约旦家常菜。",
+    "signature": [
+      "约旦菜自助餐（buffet）",
+      "mansaf（羊肉配发酵酸奶汤汁和米饭，约旦国菜）",
+      "阿拉伯甜点"
+    ],
+    "price": "午餐自助约 12 JOD / 人（2026 年 2 月评价；饮料另计）",
+    "hours": null,
+    "address": "Tourism St, Wadi Musa",
+    "since": null,
+    "wiki": null,
+    "sources": [
+      "https://www.tripadvisor.co.uk/Restaurant_Review-g318895-d1570869-Reviews-Al_Qantarah-Petra_Wadi_Musa_Ma_an_Governorate.html",
+      "https://www.lonelyplanet.com/jordan/petra/restaurants"
+    ],
+    "checked": "2026-10",
+    "popularity": {
+      "instagram": {
+        "handle": null,
+        "followers": null,
+        "note": "未找到官方 Instagram 账号"
+      },
+      "google": {
+        "rating": 4.2,
+        "reviews": 1383,
+        "note": "Google 地图 4.2 分（约 1,400 条评价，2026-10 查询）"
+      },
+      "checked": "2026-10"
+    },
+    "areaLocal": {
+      "en": "Petra · Wadi Musa (Tourism Street)",
+      "ar": "البترا · وادي موسى (الشارع السياحي)"
+    }
+  },
+  {
+    "id": "al-wadi-restaurant-wadi-musa",
+    "name": {
+      "zh": "瓦迪餐厅",
+      "en": "Al Wadi Restaurant",
+      "ar": "مطعم الوادي"
+    },
+    "category": "food",
+    "type": "餐厅",
+    "region": "south",
+    "area": "佩特拉 · 瓦迪穆萨镇中心（烈士环岛）",
+    "coords": {
+      "lat": 30.3217,
+      "lng": 35.4803
+    },
+    "why": "瓦迪穆萨镇中心的平价约旦菜馆，Tripadvisor 五千多条评价、4.8 分，2026 年仍持续好评。分量大、素食友好，薄荷柠檬汁很受欢迎；比景区门口的餐厅便宜。",
+    "signature": [
+      "mansaf（羊肉配发酵酸奶汤汁和米饭，约旦国菜）",
+      "maqluba（倒扣饭）",
+      "mixed grill（烤肉拼盘）",
+      "limonana（薄荷柠檬汁）"
+    ],
+    "price": "未查到（平价）",
+    "hours": null,
+    "address": "Al-Shaheed Circle (Main St), Wadi Musa",
+    "since": null,
+    "wiki": null,
+    "sources": [
+      "https://www.tripadvisor.com/Restaurant_Review-g318895-d1191095-Reviews-Al_Wadi_Restaurant-Petra_Wadi_Musa_Ma_an_Governorate.html"
+    ],
+    "checked": "2026-10",
+    "popularity": {
+      "instagram": {
+        "handle": null,
+        "followers": null,
+        "note": "未找到可确认的官方 Instagram 账号"
+      },
+      "google": {
+        "rating": 4.8,
+        "reviews": 5912,
+        "note": "Google 地图 4.8 分（约 5,900 条评价，2026-10 查询）；Tripadvisor 5.0（5,472 条，Wanderlog 转引）"
+      },
+      "checked": "2026-10"
+    },
+    "areaLocal": {
+      "en": "Petra · Wadi Musa centre (Martyrs' Roundabout)",
+      "ar": "البترا · وسط وادي موسى (دوار الشهداء)"
+    }
+  },
+  {
+    "id": "movenpick-dead-sea-day-escape",
+    "name": {
+      "zh": "死海莫凡彼度假村日票",
+      "en": "Mövenpick Resort & Spa Dead Sea – Day Escape",
+      "ar": "منتجع موفنبيك البحر الميت"
+    },
+    "category": "food",
+    "type": "海滩",
+    "region": "deadsea",
+    "area": "死海 · 苏韦迈（Sweimeh）酒店区",
+    "coords": {
+      "lat": 31.7172,
+      "lng": 35.5874
+    },
+    "why": "死海老牌度假村，园区仿传统石头村落，有私人海滩、多个淡水泳池和泥浆区。Day Escape 日票含泳池、海滩、水疗区使用和餐饮抵用额，比公共海滩舒服得多，适合从安曼当天往返。",
+    "signature": [
+      "私人死海海滩（漂浮 + 涂泥）",
+      "淡水泳池",
+      "Zara Spa 水疗（仅限成人）",
+      "含餐饮抵用额"
+    ],
+    "price": "约 55–80 JOD / 人（2026 年各平台参考价不一，需向酒店询价）",
+    "hours": "Day Escape 每日 13:00–22:00",
+    "address": "Dead Sea Road, Sweimeh, Dead Sea",
+    "since": null,
+    "wiki": "https://en.wikipedia.org/wiki/Movenpick_Dead_Sea_Spa_and_Resort",
+    "sources": [
+      "https://movenpick.accor.com/en/middle-east/jordan/dead-sea/resort-dead-sea/day-escape-experiance.html",
+      "https://www.jordan-spirit.com/guides/dead-sea-day-pass-comparison/"
+    ],
+    "checked": "2026-10",
+    "popularity": {
+      "instagram": {
+        "handle": "@movenpickdeadsea",
+        "followers": 62000,
+        "note": "约 6.2 万粉丝，酒店官方账号（2026-10 查询）"
+      },
+      "google": {
+        "rating": 4.7,
+        "reviews": 20305,
+        "note": "Google 地图 4.7 分（约 2 万条评价，为整个度假村条目，非一日游项目单独评分，2026-10 查询）"
+      },
+      "checked": "2026-10"
+    },
+    "areaLocal": {
+      "en": "Dead Sea · Sweimeh hotel zone",
+      "ar": "البحر الميت · منطقة فنادق السويمة"
+    }
+  },
+  {
+    "id": "kempinski-ishtar-spa",
+    "name": {
+      "zh": "凯宾斯基伊什塔尔水疗日票",
+      "en": "Ishtar Spa, Kempinski Hotel Ishtar Dead Sea",
+      "ar": "سبا عشتار - فندق كمبنسكي البحر الميت"
+    },
+    "category": "food",
+    "type": "其他",
+    "region": "deadsea",
+    "area": "死海 · 苏韦迈（Sweimeh）酒店区",
+    "coords": {
+      "lat": 31.7151,
+      "lng": 35.586
+    },
+    "why": "死海一带最高档的水疗中心之一，非住客可买水疗日票，使用各种矿物水疗池和蒸汽设施，适合想安静放松一天的人。注意：日票只含水疗区，不含酒店泳池和海滩；16 岁以上才可入场。",
+    "signature": [
+      "死海矿物水疗池（hydro 设施）",
+      "死海泥疗程与按摩（另计）"
+    ],
+    "price": "水疗日票约 68 JOD / 人（不含疗程）",
+    "hours": null,
+    "address": "Dead Sea Road, Sweimeh, Dead Sea",
+    "since": null,
+    "wiki": null,
+    "sources": [
+      "https://www.kempinski.com/en/hotel-ishtar/luxury-spa/membership",
+      "https://deadsea.com/jordan/day-pass-comparison/"
+    ],
+    "checked": "2026-10",
+    "popularity": {
+      "instagram": {
+        "handle": "@kempinskiishtar",
+        "followers": 76000,
+        "note": "约 7.6 万粉丝，酒店官方账号（2026-10 查询）"
+      },
+      "google": {
+        "rating": 4.8,
+        "reviews": 14634,
+        "note": "Google 地图 4.8 分（约 1.46 万条评价，为整个酒店条目，非 Spa 单独评分，2026-10 查询）"
+      },
+      "checked": "2026-10"
+    },
+    "areaLocal": {
+      "en": "Dead Sea · Sweimeh hotel zone",
+      "ar": "البحر الميت · منطقة فنادق السويمة"
+    }
+  },
+  {
+    "id": "ali-baba-aqaba",
+    "name": {
+      "zh": "阿里巴巴餐厅",
+      "en": "Ali Baba Restaurant",
+      "ar": "مطعم علي بابا"
+    },
+    "category": "food",
+    "type": "餐厅",
+    "region": "south",
+    "area": "亚喀巴 · 市中心",
+    "coords": {
+      "lat": 29.529,
+      "lng": 35.0032
+    },
+    "why": "亚喀巴市中心开了几十年的老牌海鲜餐厅，有露天座位，可点酒。鲷鱼、鱿鱼、虾都受好评，2026 年仍有新评价；也有人嫌贵，结账时核对一下账单。",
+    "signature": [
+      "炭烤红海鱼",
+      "炸鱿鱼",
+      "蒜香黄油虾",
+      "mezze（冷热前菜小碟）"
+    ],
+    "price": "未查到",
+    "hours": "约 8:00–23:00（旧资料）",
+    "address": "Al-Saada St (near Al-Raghadan), Downtown Aqaba",
+    "since": null,
+    "wiki": null,
+    "sources": [
+      "https://www.tripadvisor.co.uk/Restaurant_Review-g298101-d1194028-Reviews-Ali_Baba_Restaurant-Aqaba_Al_Aqabah_Governorate.html",
+      "https://theculturetrip.com/articles/the-10-best-restaurants-in-aqaba-jordan"
+    ],
+    "checked": "2026-10",
+    "popularity": {
+      "instagram": {
+        "handle": null,
+        "followers": null,
+        "note": "未找到亚喀巴店的官方 Instagram 账号（搜到的 @alibabarestjo 是安曼 / 杰拉什的同名店）"
+      },
+      "google": {
+        "rating": 3.9,
+        "reviews": 1568,
+        "note": "Google 地图 3.9 分（约 1,600 条评价，2026-10 查询），低于新增门槛；Tripadvisor 3.8（1,386 条，Wanderlog 转引）"
+      },
+      "checked": "2026-10"
+    },
+    "areaLocal": {
+      "en": "Aqaba · City centre",
+      "ar": "العقبة · وسط المدينة"
+    }
+  },
+  {
+    "id": "captains-restaurant-aqaba",
+    "name": {
+      "zh": "船长海鲜餐厅",
+      "en": "Captain's Restaurant",
+      "ar": "مطعم الكابتن"
+    },
+    "category": "food",
+    "type": "餐厅",
+    "region": "south",
+    "area": "亚喀巴 · 市中心",
+    "coords": {
+      "lat": 29.5312,
+      "lng": 35.0024
+    },
+    "why": "亚喀巴本地人庆祝时爱去的海鲜馆，Tripadvisor 两千多条评价、4.7 分，2026 年 9、10 月仍有好评。招牌是 sayadieh，服务员穿水手风制服。",
+    "signature": [
+      "sayadieh（渔夫饭：鱼配洋葱焦糖香料饭，亚喀巴代表菜）",
+      "海鲜咖喱",
+      "烤鱼、烤虾"
+    ],
+    "price": "未查到",
+    "hours": null,
+    "address": "An-Nahda St (next to Captain's Hotel), Downtown Aqaba",
+    "since": null,
+    "wiki": null,
+    "sources": [
+      "https://www.tripadvisor.com/Restaurant_Review-g298101-d1745488-Reviews-Captain_s_Restaurant-Aqaba_Al_Aqabah_Governorate.html",
+      "https://www-lonelyplanet-com-57e2.imagizer.com/pois/1443202"
+    ],
+    "checked": "2026-10",
+    "popularity": {
+      "instagram": {
+        "handle": null,
+        "followers": null,
+        "note": "未能确认官方账号；疑似 @captains_restaurant（约 9,800 粉丝），但页面未写地点，未采用"
+      },
+      "google": {
+        "rating": 4.6,
+        "reviews": 3065,
+        "note": "Google 地图 4.6 分（约 3,100 条评价，2026-10 查询）；Tripadvisor 4.7（2,404 条，Wanderlog 转引）"
+      },
+      "checked": "2026-10"
+    },
+    "areaLocal": {
+      "en": "Aqaba · City centre",
+      "ar": "العقبة · وسط المدينة"
+    }
+  },
+  {
+    "id": "berenice-beach-club",
+    "name": {
+      "zh": "贝蕾妮丝海滩俱乐部",
+      "en": "Berenice Beach Club",
+      "ar": "نادي برنيس الشاطئي"
+    },
+    "category": "food",
+    "type": "海滩",
+    "region": "south",
+    "area": "亚喀巴 · 南海滩（South Beach）",
+    "coords": {
+      "lat": 29.4346,
+      "lng": 34.974
+    },
+    "why": "南海滩老牌海滩俱乐部，门前就是珊瑚礁（日本花园礁、雪松号沉船都在附近），浮潜很方便，有泳池、躺椅、毛巾和餐厅。周末家庭多，更衣室偏旧。",
+    "signature": [
+      "门口浮潜看珊瑚礁",
+      "泳池与私人海滩",
+      "玻璃底船出海（另计）"
+    ],
+    "price": "日票约 13–23 JOD / 人（各平台不一）",
+    "hours": "约 9:00–22:00（周四至周六至 23:00，平台资料）",
+    "address": "South Beach Hwy, Aqaba",
+    "since": null,
+    "wiki": null,
+    "sources": [
+      "https://www.tripadvisor.com/Attraction_Review-g298101-d3616885-Reviews-Berenice_Beach_Club-Aqaba_Al_Aqabah_Governorate.html",
+      "https://sindbadjo.com/en/berenice-2/"
+    ],
+    "checked": "2026-10",
+    "popularity": {
+      "instagram": {
+        "handle": "@berenicebeachclubaqaba",
+        "followers": 58000,
+        "note": "约 5.8 万粉丝（Instagram 页面 2026-10 查询）"
+      },
+      "google": {
+        "rating": 4.3,
+        "reviews": 4392,
+        "note": "Google 4.3 分（约 4,400 条评价，Wanderlog 转引 Google 数据，2026-10 查询；未能直接从 Google 地图读取）；Tripadvisor 4.2（1,508 条）"
+      },
+      "checked": "2026-10"
+    },
+    "areaLocal": {
+      "en": "Aqaba · South Beach",
+      "ar": "العقبة · الشاطئ الجنوبي"
+    }
+  },
+  {
+    "id": "wadi-rum-zarb-sun-city-camp",
+    "name": {
+      "zh": "瓦迪拉姆营地 zarb 地下烤肉（太阳城营地）",
+      "en": "Zarb Dinner at Sun City Camp, Wadi Rum",
+      "ar": "زرب مخيم صن سيتي - وادي رم"
+    },
+    "category": "food",
+    "type": "体验",
+    "region": "south",
+    "area": "瓦迪拉姆 · 保护区营地",
+    "coords": {
+      "lat": 29.6569,
+      "lng": 35.4796
+    },
+    "why": "zarb 是贝都因人的地下烤肉：羊肉、鸡肉和蔬菜放进埋在沙里的炭火坑焖烤约三个半小时，晚饭时当众开坑。通常是住营地时附带的晚餐，不是单独的餐厅；瓦迪拉姆多数营地都有，太阳城营地开坑表演做得最热闹，2026 年评价仍很好。",
+    "signature": [
+      "zarb（贝都因沙坑焖烤羊肉、鸡肉和蔬菜）",
+      "开坑表演与晚间音乐",
+      "贝都因甜茶"
+    ],
+    "price": "未查到（通常含在营地住宿价内）",
+    "hours": null,
+    "address": "Sun City Camp, Wadi Rum Protected Area",
+    "since": "2019（营地 zarb 开坑表演）",
+    "wiki": null,
+    "sources": [
+      "https://travelcourier.ca/dinner-isnt-dull-at-this-jordanian-retreat",
+      "https://www.tripadvisor.com/Hotel_Review-g303973-d5541411-Reviews-or20-Sun_City_Camp_Wadi_Rum-Wadi_Rum_Al_Aqabah_Governorate.html"
+    ],
+    "checked": "2026-10",
+    "popularity": {
+      "instagram": {
+        "handle": "@suncity_camp",
+        "followers": 47000,
+        "note": "约 4.7 万粉丝，营地官方账号（2026-10 查询）"
+      },
+      "google": {
+        "rating": 4.6,
+        "reviews": 2507,
+        "note": "Google 地图 4.6 分（约 2,500 条评价，为整个营地条目，2026-10 查询）"
+      },
+      "checked": "2026-10"
+    },
+    "areaLocal": {
+      "en": "Wadi Rum · Protected-area camps",
+      "ar": "وادي رم · مخيمات المحمية"
+    }
+  },
+  {
+    "id": "bab-alyamen-alsaeed",
+    "name": {
+      "zh": "幸福也门之门（也门菜）",
+      "en": "Bab Alyamen Alsa'eed",
+      "ar": "مطعم باب اليمن السعيد"
+    },
+    "category": "food",
+    "type": "餐厅",
+    "region": "amman",
+    "area": "安曼 · 西区（Abdallah Ghosheh 街）",
+    "coords": {
+      "lat": 31.973,
+      "lng": 35.8538
+    },
+    "why": "安曼最早的也门餐厅之一，被 50Best Discovery 收录。也门式焖羊肉配米饭、现烤大饼和甜咸两吃的 mutabbaq 是招牌，有分层包厢适合家庭聚餐。Google 上评价超过一万条，是本地人请客常去的地方。",
+    "signature": [
+      "mandi / zurbian（也门焖羊肉或鸡肉配香料米饭）",
+      "mutabbaq（也门夹馅煎饼，咸的或配香蕉蜂蜜）",
+      "现烤也门大饼"
+    ],
+    "price": "未查到",
+    "hours": "每天 8:00–24:00（Google 地图）",
+    "address": "Abdallah Ghosheh St 101, Amman",
+    "since": null,
+    "wiki": null,
+    "sources": [
+      "https://www.the50.com/discovery/Establishments/Jordan/Amman/Bab-Alyamen-Alsa-eed.html",
+      "https://babalyamanalsaed.com/",
+      "https://www.google.com/maps/search/?api=1&query=Bab%20Alyamen%20Alsa%27eed%20Amman"
+    ],
+    "checked": "2026-10",
+    "popularity": {
+      "instagram": {
+        "handle": "@babalyemenalsaed",
+        "followers": 34000,
+        "note": "约 3.4 万粉丝（Instagram 页面，2026-10 查询）；官网链接的官方账号"
+      },
+      "google": {
+        "rating": 4.3,
+        "reviews": 11321,
+        "note": "Google 地图 4.3 分（约 1.1 万条评价），2026-10 查询"
+      },
+      "checked": "2026-10"
+    },
+    "areaLocal": {
+      "en": "Amman · West Amman (Abdallah Ghosheh St)",
+      "ar": "عمّان · غرب عمّان (شارع عبدالله غوشة)"
+    }
+  },
+  {
+    "id": "nafeeseh-sweets-7th-circle",
+    "name": {
+      "zh": "纳菲塞甜点（第七环岛店）",
+      "en": "Nafeeseh Sweets (7th Circle)",
+      "ar": "حلويات نفيسة - الدوار السابع"
+    },
+    "category": "food",
+    "type": "甜点",
+    "region": "amman",
+    "area": "安曼 · 第七环岛（7th Circle）一带",
+    "coords": {
+      "lat": 31.9599,
+      "lng": 35.8592
+    },
+    "why": "2012 年创立的约旦本土甜点品牌，在国内有十几家分店，Instagram 官方账号超过 11 万粉丝。knafeh 和果仁千层酥做得扎实，是想避开市中心 Habibah 排队人潮时的好选择；有外国学生的安曼美食指南也推荐过它的第七环岛店。",
+    "signature": [
+      "knafeh（奶酪酥，热奶酪配酥皮、浇糖浆）",
+      "baklava（果仁千层酥）",
+      "maamoul（枣泥 / 果仁小饼）"
+    ],
+    "price": "未查到",
+    "hours": "每天 9:00–24:00（Google 地图）",
+    "address": "Zahran St 270, near 7th Circle, Amman",
+    "since": "2012（品牌）",
+    "wiki": null,
+    "sources": [
+      "https://anba.com.br/en/?p=330873",
+      "https://ciee.org/go-abroad/college-study-abroad/blog/beginners-guide-amman-food-scene",
+      "https://www.google.com/maps/search/?api=1&query=Nafeeseh%20Sweets%20Zahran%20St%20Amman"
+    ],
+    "checked": "2026-10",
+    "popularity": {
+      "instagram": {
+        "handle": "@nafeeseh.jo",
+        "followers": 111000,
+        "note": "约 11.1 万粉丝（Instagram 页面，2026-10 查询）；约旦官方总账号，全国分店共用"
+      },
+      "google": {
+        "rating": 4.3,
+        "reviews": 7128,
+        "note": "Google 地图 4.3 分（约 7,128条评价），2026-10 查询（本店）"
+      },
+      "checked": "2026-10"
+    },
+    "areaLocal": {
+      "en": "Amman · 7th Circle area",
+      "ar": "عمّان · منطقة الدوار السابع"
+    }
+  },
+  {
+    "id": "levant-restaurant",
+    "name": {
+      "zh": "黎凡特餐厅（亚美尼亚菜）",
+      "en": "Levant Restaurant",
+      "ar": "مطعم ليفانت"
+    },
+    "category": "food",
+    "type": "餐厅",
+    "region": "amman",
+    "area": "安曼 · 第三环岛（Jabal Amman）",
+    "coords": {
+      "lat": 31.9525,
+      "lng": 35.9074
+    },
+    "why": "以亚美尼亚家常菜为主的老牌餐厅，被 50Best Discovery 收录，Google 4.6 分、近 6000 条评价。室内有吊灯和织锦布置，露台能看安曼屋顶，适合朋友聚餐。周末常满，最好先订位。",
+    "signature": [
+      "manti（亚美尼亚小饺子，配酸奶酱）",
+      "葡萄叶包饭",
+      "freekeh（烟熏青麦）配蘑菇奶酪",
+      "muhalabieh（奶冻甜点）配杏子"
+    ],
+    "price": "约 20–30 JOD / 人（Google 评论者自报；50Best 估人均约 42 美元）",
+    "hours": "每天 12:30–24:00（Google 地图）",
+    "address": "Methqal Al Fayez St, near 3rd Circle (King Talal Sq), Jabal Amman, Amman",
+    "since": null,
+    "wiki": null,
+    "sources": [
+      "https://www.the50.com/discovery/Establishments/Jordan/Amman/Levant.html",
+      "http://www.levant-jo.com/",
+      "https://www.google.com/maps/search/?api=1&query=Levant%20Restaurant%20Amman"
+    ],
+    "checked": "2026-10",
+    "popularity": {
+      "instagram": {
+        "handle": "@levantrestaurant",
+        "followers": 57000,
+        "note": "约 5.7 万粉丝（Instagram 页面，2026-10 查询）；官网链接的官方账号"
+      },
+      "google": {
+        "rating": 4.6,
+        "reviews": 5755,
+        "note": "Google 地图 4.6 分（约 5,755条评价），2026-10 查询"
+      },
+      "checked": "2026-10"
+    },
+    "areaLocal": {
+      "en": "Amman · 3rd Circle (Jabal Amman)",
+      "ar": "عمّان · الدوار الثالث (جبل عمّان)"
+    }
+  },
+  {
+    "id": "rumi-cafe",
+    "name": {
+      "zh": "鲁米咖啡馆",
+      "en": "Rumi Cafe",
+      "ar": "رومي كافيه"
+    },
+    "category": "food",
+    "type": "咖啡馆",
+    "region": "amman",
+    "area": "安曼 · 卢韦卜德山（Jabal Al-Lweibdeh）",
+    "coords": {
+      "lat": 31.9561,
+      "lng": 35.9259
+    },
+    "why": "2013 年在文艺老区 Lweibdeh 开业，从 20 个座位做到现在的街区地标，本地人和外国人都爱来这里聊天、看书。咖啡、茶和自制蛋糕口碑好，Google 4.6 分、近 6000 条评价。离 Paris Circle 和 Darat al-Funun 艺术中心都很近，可以顺路散步。",
+    "signature": [
+      "手冲 / 意式咖啡",
+      "薰衣草柠檬蛋糕",
+      "酸面包三明治（隔壁 Rumi Deli）"
+    ],
+    "price": "未查到",
+    "hours": "周六至周四 7:00–23:30；周五 7:00 至主麻礼拜前，礼拜后再开到 23:30（官网）",
+    "address": "Al-Shariaah College St 14, Jabal Al-Lweibdeh, Amman",
+    "since": "2013",
+    "wiki": null,
+    "sources": [
+      "https://rumijordan.com/",
+      "https://thecuriousplate.com/amman-jordan-what-to-eat-and-visit/",
+      "https://www.google.com/maps/search/?api=1&query=Rumi%20Cafe%20and%20Deli%20Amman"
+    ],
+    "checked": "2026-10",
+    "popularity": {
+      "instagram": {
+        "handle": "@rumi.amman",
+        "followers": 44000,
+        "note": "约 4.4 万粉丝（Instagram 页面，2026-10 查询）；官网链接的官方账号"
+      },
+      "google": {
+        "rating": 4.6,
+        "reviews": 5858,
+        "note": "Google 地图 4.6 分（约 5,858条评价），2026-10 查询"
+      },
+      "checked": "2026-10"
+    },
+    "areaLocal": {
+      "en": "Amman · Jabal Al-Lweibdeh",
+      "ar": "عمّان · جبل اللويبدة"
+    }
+  },
+  {
+    "id": "dimitris-coffee-makkah",
+    "name": {
+      "zh": "迪米特里咖啡（麦加街店）",
+      "en": "Dimitri's Coffee (Makkah Street)",
+      "ar": "ديميتريز كوفي - شارع مكة"
+    },
+    "category": "food",
+    "type": "咖啡馆",
+    "region": "amman",
+    "area": "安曼 · 西区（麦加街 Mecca St）",
+    "coords": {
+      "lat": 31.9742,
+      "lng": 35.8462
+    },
+    "why": "约旦本土精品咖啡品牌，自己烘豆，在全国有约 10 家店，Instagram 官方账号近 9 万粉丝，是安曼年轻人最常打卡的咖啡店之一。麦加街店是评价最多的一家；想去老城区的话，Lweibdeh 和 Abdali Boulevard 也有分店。",
+    "signature": [
+      "Spanish latte（炼乳拿铁）",
+      "flat white / V60 手冲",
+      "自家烘焙咖啡豆"
+    ],
+    "price": "约 1–5 JOD / 杯（Google 评论者自报，Boulevard 店）",
+    "hours": "每天 7:00–次日 0:30（Google 地图）",
+    "address": "Mamdouh Al-Sarayrah St, off Mecca St, Amman",
+    "since": null,
+    "wiki": null,
+    "sources": [
+      "https://dimitriscoffee.com/",
+      "https://www.google.com/maps/search/?api=1&query=Dimitri%27s%20Coffee%20Makkah%20Street%20Amman"
+    ],
+    "checked": "2026-10",
+    "popularity": {
+      "instagram": {
+        "handle": "@dimitriscoffee",
+        "followers": 87000,
+        "note": "约 8.7 万粉丝（Instagram 页面，2026-10 查询）；官网链接的官方账号，全品牌共用"
+      },
+      "google": {
+        "rating": 4.5,
+        "reviews": 3027,
+        "note": "Google 地图 4.5 分（约 3,027条评价），2026-10 查询（本店）"
+      },
+      "checked": "2026-10"
+    },
+    "areaLocal": {
+      "en": "Amman · West Amman (Mecca St)",
+      "ar": "عمّان · غرب عمّان (شارع مكة)"
+    }
+  },
+  {
+    "id": "brisket-amman",
+    "name": {
+      "zh": "布里斯克特烟熏烧烤",
+      "en": "Brisket",
+      "ar": "مطعم بريسكت"
+    },
+    "category": "food",
+    "type": "餐厅",
+    "region": "amman",
+    "area": "安曼 · 西安曼（Abdallah Ben Massoud 街）",
+    "coords": {
+      "lat": 31.9629,
+      "lng": 35.8983
+    },
+    "why": "2014 年开业，自称安曼第一家正宗美式烟熏烧烤店。慢烟熏牛胸肉和汉堡是招牌，被 The Culture Trip 列入安曼最佳汉堡榜单，Google 4.5 分。想换换口味、不吃阿拉伯菜时的好选择；周日休息。",
+    "signature": [
+      "烟熏牛胸肉 brisket（低温慢烟熏 10 多小时）",
+      "brisket 汉堡",
+      "烟熏牛肋排"
+    ],
+    "price": "约 10–15 JOD / 人（Google 评论者自报）",
+    "hours": "周一至周四 18:00–23:30；周五、六 14:00–23:30；周日休息（Google 地图）",
+    "address": "Abdallah Ben Massoud St, Amman",
+    "since": "2014",
+    "wiki": null,
+    "sources": [
+      "https://theculturetrip.com/articles/where-to-find-the-best-burgers-in-amman",
+      "https://www.instagram.com/brisket_jordan/",
+      "https://www.google.com/maps/search/?api=1&query=Brisket%20Amman"
+    ],
+    "checked": "2026-10",
+    "popularity": {
+      "instagram": {
+        "handle": "@brisket_jordan",
+        "followers": 24000,
+        "note": "约 2.4 万粉丝（Instagram 页面，2026-10 查询）"
+      },
+      "google": {
+        "rating": 4.5,
+        "reviews": 2502,
+        "note": "Google 地图 4.5 分（约 2,502条评价），2026-10 查询"
+      },
+      "checked": "2026-10"
+    },
+    "areaLocal": {
+      "en": "Amman · West Amman (Abdallah Ben Massoud St)",
+      "ar": "عمّان · غرب عمّان (شارع عبدالله بن مسعود)"
+    }
+  },
+  {
+    "id": "books-at-cafe",
+    "name": {
+      "zh": "书咖（Books@Cafe）",
+      "en": "Books@Cafe",
+      "ar": "بوكس آت كافيه"
+    },
+    "category": "food",
+    "type": "咖啡馆",
+    "region": "amman",
+    "area": "安曼 · 安曼山（Jabal Amman，彩虹街旁）",
+    "coords": {
+      "lat": 31.9481,
+      "lng": 35.9313
+    },
+    "why": "1997 年开业，最早是安曼最早的网咖之一，被认为是带动彩虹街（Rainbow St）咖啡文化的先驱。集咖啡馆、餐厅、书店于一身，露台可以看老城景色，Google 4.3 分、3000 多条评价。逛完彩虹街正好上来坐坐。",
+    "signature": [
+      "露台咖啡 / 茶",
+      "西式简餐和披萨",
+      "店内书店与文创小物"
+    ],
+    "price": "约 10–15 JOD / 人（Google 评论者自报，差异大）",
+    "hours": "周日至周四 10:00–24:00；周五、六 9:00–24:00（官网）",
+    "address": "12 Omar Bin Al-Khattab St, Jabal Amman, Amman",
+    "since": "1997",
+    "wiki": null,
+    "sources": [
+      "https://www.booksatcafe.com/",
+      "https://www.wamda.com/en/2010/06/the-pioneers-of-jabal-amman-%E2%80%93-bookscafe",
+      "https://diversityarts.org.au/iatw/a-safe-and-inclusive-haven-for-books-culture-and-conversation/",
+      "https://www.google.com/maps/search/?api=1&query=Books%40Cafe%20Amman"
+    ],
+    "checked": "2026-10",
+    "popularity": {
+      "instagram": {
+        "handle": "@booksatcafe_jo",
+        "followers": 9850,
+        "note": "约 9,850 粉丝（Instagram 页面，2026-10 查询）；官网链接的官方账号；多份安曼旅游指南推荐"
+      },
+      "google": {
+        "rating": 4.3,
+        "reviews": 3068,
+        "note": "Google 地图 4.3 分（约 3,068条评价），2026-10 查询"
+      },
+      "checked": "2026-10"
+    },
+    "areaLocal": {
+      "en": "Amman · Jabal Amman (next to Rainbow Street)",
+      "ar": "عمّان · جبل عمّان (بجانب شارع الرينبو)"
+    }
+  },
+  {
+    "id": "jubran-restaurant",
+    "name": {
+      "zh": "纪伯伦屋顶餐厅",
+      "en": "Jubran Restaurant",
+      "ar": "مطعم جبران"
+    },
+    "category": "food",
+    "type": "餐厅",
+    "region": "amman",
+    "area": "安曼 · 阿布达利大道（Abdali Boulevard）",
+    "coords": {
+      "lat": 31.9643,
+      "lng": 35.9048
+    },
+    "why": "以诗人纪伯伦命名的屋顶黎凡特餐厅，在 Abdali Boulevard 营业十多年，Google 评价超过 4 万条，是安曼评价最多的餐厅之一，Instagram 有 15 万粉丝。早午餐、黎凡特前菜和烤肉都有，傍晚上去看日落很受欢迎。可以抽水烟，不喜欢烟味的话选靠边的位子。",
+    "signature": [
+      "烟熏羊颈肉（招牌慢炖菜）",
+      "黎凡特冷热前菜 mezze",
+      "Jubran 烤肉拼盘",
+      "果仁千层酥冰淇淋"
+    ],
+    "price": "约 20–35 JOD / 人（Google 评论者自报）",
+    "hours": "每天 9:00–次日 1:30（Google 地图）",
+    "address": "Rafiq Al Hariri St, The Boulevard (Abdali), Entrance 2, rooftop, Amman",
+    "since": "约 2015（官网称已营业十年以上）",
+    "wiki": null,
+    "sources": [
+      "https://www.jubran.com/",
+      "https://www.google.com/maps/search/?api=1&query=Jubran%20Restaurant%20Abdali%20Boulevard%20Amman"
+    ],
+    "checked": "2026-10",
+    "popularity": {
+      "instagram": {
+        "handle": "@jubranjo",
+        "followers": 153000,
+        "note": "约 15.3 万粉丝（Instagram 页面，2026-10 查询）；官网链接的官方账号"
+      },
+      "google": {
+        "rating": 4.8,
+        "reviews": 42906,
+        "note": "Google 地图 4.8 分（约 4.3 万条评价），2026-10 查询"
+      },
+      "checked": "2026-10"
+    },
+    "areaLocal": {
+      "en": "Amman · Abdali Boulevard",
+      "ar": "عمّان · بوليفارد العبدلي"
+    }
+  },
+  {
+    "id": "zuhoor-al-shafa",
+    "name": {
+      "zh": "沙法之花烤肉餐厅（塔拉阿里本店）",
+      "en": "Zuhoor Al Shafa Restaurant & Grills (Tla' Al-Ali)",
+      "ar": "مطعم ومشاوي زهور الشفا - تلاع العلي"
+    },
+    "category": "food",
+    "type": "餐厅",
+    "region": "amman",
+    "area": "安曼 · 塔拉阿里（Tla' Al-Ali）",
+    "coords": {
+      "lat": 31.9989,
+      "lng": 35.8707
+    },
+    "why": "安曼人气最高的阿拉伯烤肉（mashawi）餐厅之一，Instagram 有 24 万粉丝，本店 Google 4.5 分、近 2 万条评价。按公斤点烤肉拼盘，肉来自自家农场，一家人或一群朋友一起吃最划算。这里也有 mansaf，可以一次吃齐约旦的代表菜。",
+    "signature": [
+      "mashawi 烤肉拼盘（羊肉串、肉末串、鸡肉串）",
+      "shish taouk（腌鸡肉串）",
+      "arayes（夹肉末烤大饼）",
+      "mansaf（约旦国菜：羊肉配酸奶酱米饭）"
+    ],
+    "price": "约 10–20 JOD / 人（估计；官网烤肉拼盘 33 JOD / 公斤）",
+    "hours": "周六至周三 10:00–23:30；周四、五 10:00–23:45（Google 地图）",
+    "address": "Khalil As-Salem St, Tla' Al-Ali, Amman",
+    "since": null,
+    "wiki": null,
+    "sources": [
+      "https://zohooralshafa.com/",
+      "https://www.google.com/maps/search/?api=1&query=Zuhoor%20AlShafa%20Restaurant%20Tla%20Al%20Ali%20Amman"
+    ],
+    "checked": "2026-10",
+    "popularity": {
+      "instagram": {
+        "handle": "@zohooralshafa",
+        "followers": 243000,
+        "note": "约 24.3 万粉丝（Instagram 页面，2026-10 查询）"
+      },
+      "google": {
+        "rating": 4.5,
+        "reviews": 19351,
+        "note": "Google 地图 4.5 分（约 1.9 万条评价），2026-10 查询（本店）"
+      },
+      "checked": "2026-10"
+    },
+    "areaLocal": {
+      "en": "Amman · Tla' Al-Ali",
+      "ar": "عمّان · تلاع العلي"
+    }
+  },
+  {
+    "id": "salaheddin-bakery",
+    "name": {
+      "zh": "萨拉丁面包店",
+      "en": "Salaheddin Bakery",
+      "ar": "مخبز صلاح الدين"
+    },
+    "category": "food",
+    "type": "街头小吃",
+    "region": "amman",
+    "area": "安曼 · 阿布达利（Abdali，侯赛因国王街）",
+    "coords": {
+      "lat": 31.9595,
+      "lng": 35.923
+    },
+    "why": "安曼最老、最受欢迎的面包店之一，24 小时出炉芝麻 ka'ak（圈饼），早餐时间常排队。买好面包后自己在柜台夹烤蛋、奶酪、辣酱和 za'atar，一个才几毛钱，是很地道的本地早餐。Mark Wiens（Migrationology）等美食博主和多份约旦街头美食指南都推荐过。",
+    "signature": [
+      "ka'ak（芝麻圈饼 / 芝麻面包）",
+      "自选夹馅：烤蛋、奶酪、za'atar（百里香香料）",
+      "barazek（芝麻开心果小饼）"
+    ],
+    "price": "约 0.5–1 JOD / 个（Migrationology 记录两个夹馅 ka'ak 1.40 JOD）",
+    "hours": "24 小时（Google 地图）",
+    "address": "King Hussein St (at Umayah Bin Abd Shams St), Abdali, Amman",
+    "since": null,
+    "wiki": null,
+    "sources": [
+      "https://migrationology.com/best-bakery-amman-jordan/",
+      "https://inspiringvacations.com/us/jordan-tours/insight-articles/10-must-eat-jordanian-foods/989",
+      "https://www.google.com/maps/search/?api=1&query=Salaheddin%20Bakery%20Amman"
+    ],
+    "checked": "2026-10",
+    "popularity": {
+      "instagram": {
+        "handle": null,
+        "followers": null,
+        "note": "未找到官方 Instagram 账号；人气依据为 Migrationology 等美食博主与街头美食指南推荐"
+      },
+      "google": {
+        "rating": 4.4,
+        "reviews": 5004,
+        "note": "Google 地图 4.4 分（约 5,004条评价），2026-10 查询"
+      },
+      "checked": "2026-10"
+    },
+    "areaLocal": {
+      "en": "Amman · Abdali (King Hussein St)",
+      "ar": "عمّان · العبدلي (شارع الملك حسين)"
+    }
+  },
+  {
+    "id": "mansaf-sharebha",
+    "name": {
+      "zh": "沙瑞巴曼萨夫",
+      "en": "Mansaf Sharebha",
+      "ar": "منسف شربها"
+    },
+    "category": "food",
+    "type": "餐厅",
+    "region": "amman",
+    "area": "安曼 · 第七环岛（7th Circle）一带",
+    "coords": {
+      "lat": 31.9573,
+      "lng": 35.855
+    },
+    "why": "专做约旦国菜 mansaf 的本地餐厅，Google 4.7 分、近 4000 条评价，Instagram 约 1.7 万粉丝。想在安曼认真吃一次 mansaf，又不想去游客多的地方，可以来这里。",
+    "signature": [
+      "mansaf（约旦国菜：羊肉配 jameed 发酵酸奶酱和米饭）"
+    ],
+    "price": "未查到",
+    "hours": "周六至周四 12:00–24:00；周五 13:30–24:00（Google 地图）",
+    "address": "Al-Ezz Ben Abd As-Salam St, Amman",
+    "since": null,
+    "wiki": null,
+    "sources": [
+      "https://www.instagram.com/sharebha1/",
+      "https://www.google.com/maps/search/?api=1&query=Mansaf%20Sharebha%20Amman"
+    ],
+    "checked": "2026-10",
+    "popularity": {
+      "instagram": {
+        "handle": "@sharebha1",
+        "followers": 17000,
+        "note": "约 1.7 万粉丝（Instagram 页面，2026-10 查询）"
+      },
+      "google": {
+        "rating": 4.7,
+        "reviews": 3903,
+        "note": "Google 地图 4.7 分（约 3,903条评价），2026-10 查询"
+      },
+      "checked": "2026-10"
+    },
+    "areaLocal": {
+      "en": "Amman · 7th Circle area",
+      "ar": "عمّان · منطقة الدوار السابع"
+    }
+  },
+  {
+    "id": "kababji-mecca-street",
+    "name": {
+      "zh": "卡巴吉黎巴嫩烤肉（麦加街店）",
+      "en": "Kababji (Mecca Street)",
+      "ar": "كبابجي - شارع مكة"
+    },
+    "category": "food",
+    "type": "餐厅",
+    "region": "amman",
+    "area": "安曼 · 西区（麦加街 Mecca St）",
+    "coords": {
+      "lat": 31.9727,
+      "lng": 35.8728
+    },
+    "why": "来自贝鲁特的黎巴嫩烤肉连锁，安曼麦加街店至少从 2012 年就开着，用从黎巴嫩运来的炭火烤炉。烤肉串、鸡肉串和黎巴嫩前菜稳定不出错，Google 4.3 分、2500 多条评价，适合家庭聚餐。",
+    "signature": [
+      "炭烤羊肉 / 鸡肉串",
+      "shish taouk（腌鸡肉串）",
+      "hummus、tabbouleh 等黎巴嫩前菜"
+    ],
+    "price": "约 10–20 JOD / 人（Google 评论者自报）",
+    "hours": "每天 9:00–次日 1:00（Google 地图）",
+    "address": "Mecca St 89, Amman",
+    "since": null,
+    "wiki": null,
+    "sources": [
+      "https://nogarlicnoonions.com/kabab-ji-an-enjoyable-lebanese-diner-in-amman",
+      "http://kababji-jo.com/",
+      "https://www.google.com/maps/search/?api=1&query=Kababji%20Mecca%20St%20Amman"
+    ],
+    "checked": "2026-10",
+    "popularity": {
+      "instagram": {
+        "handle": "@kababji_jordan_",
+        "followers": 16000,
+        "note": "约 1.6 万粉丝（Instagram 页面，2026-10 查询）；官网链接的约旦官方账号"
+      },
+      "google": {
+        "rating": 4.3,
+        "reviews": 2566,
+        "note": "Google 地图 4.3 分（约 2,566条评价），2026-10 查询（本店）"
+      },
+      "checked": "2026-10"
+    },
+    "areaLocal": {
+      "en": "Amman · West Amman (Mecca St)",
+      "ar": "عمّان · غرب عمّان (شارع مكة)"
+    }
+  },
+  {
+    "id": "shanab-shawarma-abdoun",
+    "name": {
+      "zh": "沙纳布沙威玛（阿卜敦店）",
+      "en": "Shanab Shawarma (Abdoun)",
+      "ar": "شاورما شنب - عبدون"
+    },
+    "category": "food",
+    "type": "街头小吃",
+    "region": "amman",
+    "area": "安曼 · 阿卜敦（Abdoun）",
+    "coords": {
+      "lat": 31.9414,
+      "lng": 35.8828
+    },
+    "why": "近几年在 Instagram 很红的沙威玛店，约旦官方账号约 6.6 万粉丝，阿卜敦店 Google 4.4 分、近 3000 条评价。卷饼便宜、出餐快，营业到半夜，适合晚上逛完阿卜敦顺路买一份。",
+    "signature": [
+      "鸡肉沙威玛卷 shawarma（烤肉卷饼）",
+      "牛肉沙威玛卷"
+    ],
+    "price": "约 1–5 JOD / 人（Google 评论者自报）",
+    "hours": "周六至周四 12:00–次日 2:00；周五 14:00–次日 2:00（Google 地图）",
+    "address": "Saed Abdo Shammout St, Abdoun, Amman",
+    "since": null,
+    "wiki": null,
+    "sources": [
+      "https://www.instagram.com/shanabshawarma_jo/",
+      "https://www.google.com/maps/search/?api=1&query=Shanab%20Shawarma%20Abdoun%20Amman"
+    ],
+    "checked": "2026-10",
+    "popularity": {
+      "instagram": {
+        "handle": "@shanabshawarma_jo",
+        "followers": 66000,
+        "note": "约 6.6 万粉丝（Instagram 页面，2026-10 查询）；约旦账号，简介写阿卜敦店"
+      },
+      "google": {
+        "rating": 4.4,
+        "reviews": 2872,
+        "note": "Google 地图 4.4 分（约 2,872条评价），2026-10 查询"
+      },
+      "checked": "2026-10"
+    },
+    "areaLocal": {
+      "en": "Amman · Abdoun",
+      "ar": "عمّان · عبدون"
+    }
+  },
+  {
+    "id": "khubza-seneya-aqaba",
+    "name": {
+      "zh": "面包与烤盘（Khubza & Seneya）",
+      "en": "Khubza & Seneya",
+      "ar": "خبزة وصينية"
+    },
+    "category": "food",
+    "type": "餐厅",
+    "region": "south",
+    "area": "亚喀巴 · 市中心（An-Nahdah St.）",
+    "coords": {
+      "lat": 29.5315,
+      "lng": 35.002
+    },
+    "why": "亚喀巴人气最旺的约旦家常菜馆，Google 上近 7,700 条评价仍有 4.8 分，Wanderlog 亚喀巴榜单前列。菜单不长，主打用陶盘/烤盘（seneya）现烤的家常菜，配现烤面包，价格实在，饭后常送茶。",
+    "signature": [
+      "seneya 烤盘菜（肉末 kofta 配番茄土豆或芝麻酱，陶盘烤制）",
+      "柠檬鸡 lemon chicken",
+      "炒鸡肝 chicken liver",
+      "煎 halloumi（哈罗米奶酪）",
+      "烤盘鸡蛋 baked eggs"
+    ],
+    "price": "约 10–12 JOD / 人（评价者记两人约 20–23 JOD）",
+    "hours": "约 9:30–23:30（Google 地图；周五、周六时段以店家公布为准）",
+    "address": "An-Nahdah St. 18 (next to Capital Bank), Aqaba",
+    "since": null,
+    "wiki": null,
+    "sources": [
+      "https://wanderlog.com/place/details/1868118",
+      "https://wanderlog.com/list/geoCategory/206438/restaurants",
+      "https://www.instagram.com/khubzaoseneya/"
+    ],
+    "checked": "2026-10",
+    "popularity": {
+      "instagram": {
+        "handle": "@khubzaoseneya",
+        "followers": 17000,
+        "note": "约 1.7 万粉丝（Instagram 页面 2026-10 查询）；自称亚喀巴第一餐厅，Wanderlog 亚喀巴餐厅榜单前列"
+      },
+      "google": {
+        "rating": 4.8,
+        "reviews": 7673,
+        "note": "Google 地图 4.8 分（约 7,700 条评价，2026-10 查询）；Tripadvisor 4.9（3,643 条，Wanderlog 转引）"
+      },
+      "checked": "2026-10"
+    },
+    "areaLocal": {
+      "en": "Aqaba · City centre (An-Nahdah St.)",
+      "ar": "العقبة · وسط المدينة (شارع النهضة)"
+    }
+  },
+  {
+    "id": "mirwas-aqaba",
+    "name": {
+      "zh": "米尔瓦斯海景餐厅（Mirwas）",
+      "en": "Mirwas Cafe & Restaurant",
+      "ar": "مرواس"
+    },
+    "category": "food",
+    "type": "餐厅",
+    "region": "south",
+    "area": "亚喀巴 · 皇家游艇俱乐部（Royal Yacht Club）",
+    "coords": {
+      "lat": 29.5289,
+      "lng": 35
+    },
+    "why": "设在亚喀巴皇家游艇俱乐部码头边，面朝红海和游艇港，傍晚看日落很受欢迎。菜单以海鲜为主，也有意式和约旦菜；Instagram 近 3 万粉丝，是亚喀巴本地人和游客都常去的海景店。",
+    "signature": [
+      "Mirwas 鱼汤 fish soup（招牌）",
+      "现选海鲜（鱼、虾、鱿鱼）",
+      "海鲜意面 / 披萨",
+      "咖啡与甜点"
+    ],
+    "price": "未查到",
+    "hours": "9:00–次日 1:00（Google 地图）",
+    "address": "Royal Yacht Club, King Hussein St, Aqaba",
+    "since": null,
+    "wiki": null,
+    "sources": [
+      "https://wanderlog.com/list/geoCategory/206438/restaurants",
+      "https://www.instagram.com/mirwas.restaurant/"
+    ],
+    "checked": "2026-10",
+    "popularity": {
+      "instagram": {
+        "handle": "@mirwas.restaurant",
+        "followers": 29000,
+        "note": "约 2.9 万粉丝（Instagram 页面 2026-10 查询；账号含游艇俱乐部店与阿拉伯起义广场店）"
+      },
+      "google": {
+        "rating": 4.5,
+        "reviews": 2166,
+        "note": "Google 地图 4.5 分（约 2,200 条评价，2026-10 查询）；Tripadvisor 4.8（866 条，Wanderlog 转引）"
+      },
+      "checked": "2026-10"
+    },
+    "areaLocal": {
+      "en": "Aqaba · Royal Yacht Club",
+      "ar": "العقبة · نادي اليخوت الملكي"
+    }
+  },
+  {
+    "id": "al-shami-aqaba",
+    "name": {
+      "zh": "沙米餐厅（Al Shami）",
+      "en": "Al Shami Restaurant",
+      "ar": "مطعم الشامي"
+    },
+    "category": "food",
+    "type": "餐厅",
+    "region": "south",
+    "area": "亚喀巴 · 老城（近谢里夫侯赛因清真寺）",
+    "coords": {
+      "lat": 29.528,
+      "lng": 35.0033
+    },
+    "why": "亚喀巴老城的老牌叙利亚 / 约旦菜馆，本地人常去，价格实惠。Wanderlog 亚喀巴餐厅榜单第一位，Culture Trip 等旅游榜单也常列入；适合吃一顿传统烤肉和冷盘。",
+    "signature": [
+      "kofta（烤肉末串）",
+      "shish kebab（烤肉串）",
+      "baba ganoush（烤茄子泥）",
+      "当日鲜鱼",
+      "mansaf（羊肉配发酵酸奶汤汁和米饭，约旦国菜）"
+    ],
+    "price": "未查到（评价普遍称价格合理）",
+    "hours": "10:30–次日 1:00（Google 地图）",
+    "address": "Old town, near Al-Sharif Al-Hussein bin Ali Mosque, Aqaba",
+    "since": null,
+    "wiki": null,
+    "sources": [
+      "https://wanderlog.com/place/details/2812840",
+      "https://wanderlog.com/list/geoCategory/206438/restaurants",
+      "https://theculturetrip.com/articles/the-10-best-restaurants-in-aqaba-jordan"
+    ],
+    "checked": "2026-10",
+    "popularity": {
+      "instagram": {
+        "handle": null,
+        "followers": null,
+        "note": "未找到官方 Instagram 账号；热度依据为榜单：Wanderlog 亚喀巴餐厅榜第 1 位"
+      },
+      "google": {
+        "rating": 4.4,
+        "reviews": 2598,
+        "note": "Google 地图 4.4 分（约 2,600 条评价，2026-10 查询）；Tripadvisor 4.7（2,407 条，Wanderlog 转引）"
+      },
+      "checked": "2026-10"
+    },
+    "areaLocal": {
+      "en": "Aqaba · Old Town (near Sharif Hussein Mosque)",
+      "ar": "العقبة · البلدة القديمة (قرب مسجد الشريف الحسين)"
+    }
+  },
+  {
+    "id": "my-moms-recipe-petra",
+    "name": {
+      "zh": "妈妈的味道餐厅（My Mom's Recipe）",
+      "en": "My Mom's Recipe Restaurant",
+      "ar": null
+    },
+    "category": "food",
+    "type": "餐厅",
+    "region": "south",
+    "area": "佩特拉 · 瓦迪穆萨（Tourism Street）",
+    "coords": {
+      "lat": 30.3253,
+      "lng": 35.4704
+    },
+    "why": "瓦迪穆萨评价最多的餐厅之一，离佩特拉游客中心不远。午、晚餐有约旦菜自助，也可单点，有屋顶座位；Wanderlog、Trip.com 的佩特拉榜单都排在前列。",
+    "signature": [
+      "mansaf（羊肉配发酵酸奶汤汁和米饭）",
+      "galaya（番茄炖肉锅）",
+      "烤羊排 lamb chops",
+      "shish kebab（烤肉串）"
+    ],
+    "price": "未查到（Trip.com 标约 18 欧元 / 人，币种为欧元，仅供参考）",
+    "hours": "10:00–23:00（Google 地图）",
+    "address": "Tourism St, Wadi Musa",
+    "since": null,
+    "wiki": null,
+    "sources": [
+      "http://www.mymomsreciperestaurant.com/",
+      "https://wanderlog.com/place/details/791578",
+      "https://wanderlog.com/list/geoCategory/75520"
+    ],
+    "checked": "2026-10",
+    "popularity": {
+      "instagram": {
+        "handle": null,
+        "followers": null,
+        "note": "未找到官方 Instagram 账号；热度依据为榜单：Wanderlog、Trip.com 佩特拉餐厅榜前列"
+      },
+      "google": {
+        "rating": 4.5,
+        "reviews": 3525,
+        "note": "Google 地图 4.5 分（约 3,500 条评价，2026-10 查询）；Tripadvisor 4.5（2,810 条，Wanderlog 转引）"
+      },
+      "checked": "2026-10"
+    },
+    "areaLocal": {
+      "en": "Petra · Wadi Musa (Tourism Street)",
+      "ar": "البترا · وادي موسى (الشارع السياحي)"
+    }
+  },
+  {
+    "id": "falafel-time-petra",
+    "name": {
+      "zh": "炸豆丸时间（Falafel Time）",
+      "en": "Falafel Time Restaurant",
+      "ar": "فلافل تايم"
+    },
+    "category": "food",
+    "type": "街头小吃",
+    "region": "south",
+    "area": "佩特拉 · 瓦迪穆萨（Tourism Street）",
+    "coords": {
+      "lat": 30.3241,
+      "lng": 35.4758
+    },
+    "why": "瓦迪穆萨的平价小馆，Google 近 2,900 条评价仍有 4.9 分。面包现烤、炸豆丸现炸，份量大、比景区周边便宜，常送薄荷茶和米布丁，适合看完佩特拉回来简单吃一顿。",
+    "signature": [
+      "falafel（炸鹰嘴豆丸）套餐",
+      "现烤面包",
+      "烤牛肉串 beef kebab",
+      "hummus（鹰嘴豆泥）"
+    ],
+    "price": "未查到（评价称比附近餐厅便宜）",
+    "hours": "10:00–23:00（Google 地图）",
+    "address": "Tourism St 28, Wadi Musa (about 1 km from Petra Visitor Center)",
+    "since": null,
+    "wiki": null,
+    "sources": [
+      "https://wanderlog.com/place/details/4113855/falafel-time-restaurant",
+      "https://wanderlog.com/list/geoCategory/75520",
+      "https://www.instagram.com/falafeltimeresturant/"
+    ],
+    "checked": "2026-10",
+    "popularity": {
+      "instagram": {
+        "handle": "@falafeltimeresturant",
+        "followers": 2009,
+        "note": "约 2,000 粉丝（Instagram 页面 2026-10 查询），账号不大；热度主要来自 Google / Tripadvisor 高分"
+      },
+      "google": {
+        "rating": 4.9,
+        "reviews": 2881,
+        "note": "Google 地图 4.9 分（约 2,900 条评价，2026-10 查询）；Tripadvisor 5.0（1,066 条，Wanderlog 转引）"
+      },
+      "checked": "2026-10"
+    },
+    "areaLocal": {
+      "en": "Petra · Wadi Musa (Tourism Street)",
+      "ar": "البترا · وادي موسى (الشارع السياحي)"
+    }
+  },
+  {
+    "id": "carob-house-madaba",
+    "name": {
+      "zh": "角豆之家（Carob House）",
+      "en": "Carob House",
+      "ar": "بيت الخروب"
+    },
+    "category": "food",
+    "type": "餐厅",
+    "region": "madaba",
+    "area": "马达巴 · 老城中心",
+    "coords": {
+      "lat": 31.7198,
+      "lng": 35.7936
+    },
+    "why": "设在马达巴老城一栋翻修过的 1930 年代老房子里，主打「农场到餐桌」：食材来自店主自家的再生农法农场和本地小农。被 The World's 50 Best Discovery 收录，Instagram 约 2.5 万粉丝，是马达巴近年最受关注的新派约旦菜。",
+    "signature": [
+      "烤根茎沙拉配鹰嘴豆、松子、芝麻酱角豆糖蜜酱（carob 角豆）",
+      "muhammara（红椒核桃酱）",
+      "茄子 fatteh（烤面包碎配酸奶）",
+      "慢炖羊肉 shawarma",
+      "迷迭香柠檬水"
+    ],
+    "price": "约 43 JOD / 人（资料原为约 60 美元；品尝菜单约 70 美元起）",
+    "hours": "约 11:00–23:00，周五、周六 10:00 起（Google 地图）",
+    "address": "Princess Zain Bint Al-Hussein St 8, Madaba",
+    "since": null,
+    "wiki": null,
+    "sources": [
+      "https://carob.earth/",
+      "https://www.theworlds50best.com/discovery/Establishments/Jordan/Madaba/Carob-House.html",
+      "https://www.instagram.com/carob.house/"
+    ],
+    "checked": "2026-10",
+    "popularity": {
+      "instagram": {
+        "handle": "@carob.house",
+        "followers": 25000,
+        "note": "约 2.5 万粉丝（Instagram 页面 2026-10 查询）；The World's 50 Best Discovery 收录"
+      },
+      "google": {
+        "rating": 4.7,
+        "reviews": 1042,
+        "note": "Google 地图 4.7 分（约 1,000 条评价，2026-10 查询）；Tripadvisor 4.9（218 条，Wanderlog 转引）"
+      },
+      "checked": "2026-10"
+    },
+    "areaLocal": {
+      "en": "Madaba · Old Town centre",
+      "ar": "مأدبا · وسط البلدة القديمة"
+    }
+  },
+  {
+    "id": "mrah-salameh-madaba",
+    "name": {
+      "zh": "洞穴餐厅（Mrah Salameh）",
+      "en": "Mrah Salameh Restaurant",
+      "ar": "مطعم مراح سلامة"
+    },
+    "category": "food",
+    "type": "餐厅",
+    "region": "madaba",
+    "area": "马达巴 · 城西",
+    "coords": {
+      "lat": 31.7173,
+      "lng": 35.7885
+    },
+    "why": "开在一处天然古洞穴里的约旦菜馆，店主是地质学家，2010 年盖房时发现洞穴后改成餐厅，部分地面是透明玻璃，墙上挂满老物件。Al-Monitor、Euronews、Jordan Times 都报道过，适合想要特别用餐体验的人。",
+    "signature": [
+      "约旦传统家常菜（用新鲜酥油 samneh 烹调）",
+      "现烤面包",
+      "参观洞穴与老物件收藏"
+    ],
+    "price": "未查到（评价称价格合理）",
+    "hours": "11:00–24:00（Google 地图）",
+    "address": "PQ8Q+W95, Madaba",
+    "since": null,
+    "wiki": null,
+    "sources": [
+      "https://wanderlog.com/place/details/1179058",
+      "https://al-monitor.com/pulse/originals/2018/07/cave-restaurant-in-a-mosaics-city.html",
+      "https://www.euronews.com/2019/01/09/food-served-with-a-60-million-year-old-history"
+    ],
+    "checked": "2026-10",
+    "popularity": {
+      "instagram": {
+        "handle": "@mrahsalameh",
+        "followers": 3334,
+        "note": "约 3,300 粉丝（Instagram 页面 2026-10 查询），账号不大；热度主要来自媒体报道（Al-Monitor、Euronews、Jordan Times）"
+      },
+      "google": {
+        "rating": 4.3,
+        "reviews": 890,
+        "note": "Google 地图 4.3 分（约 890 条评价，2026-10 查询）；Tripadvisor 4.5（123 条，Wanderlog 转引）"
+      },
+      "checked": "2026-10"
+    },
+    "areaLocal": {
+      "en": "Madaba · West Madaba",
+      "ar": "مأدبا · غرب مأدبا"
+    }
+  },
+  {
+    "id": "akthams-1881-salt",
+    "name": {
+      "zh": "阿克塔姆 1881 咖啡馆（Aktham's 1881）",
+      "en": "Aktham's 1881 Coffee House",
+      "ar": "مقهى أكثم 1881"
+    },
+    "category": "food",
+    "type": "咖啡馆",
+    "region": "amman",
+    "area": "萨尔特 · 老城（泉水广场 Saahat Al-Ain，阿布贾比尔博物馆对面）",
+    "coords": {
+      "lat": 32.0391,
+      "lng": 35.7258
+    },
+    "why": "萨尔特老城一栋约 140 年历史的黄石老宅改成的咖啡馆，店里有本地艺术家作品和旧书，自我定位是「把过去和现在融在一起的咖啡馆」。Instagram 约 6.9 万粉丝，是萨尔特最出圈的打卡点，逛完老城和阿布贾比尔博物馆正好坐一坐。",
+    "signature": [
+      "阿拉伯咖啡 / 手冲咖啡",
+      "柠檬薄荷汁 lemon & mint",
+      "老宅庭院与室内装饰"
+    ],
+    "price": "未查到",
+    "hours": "9:00–24:00（Google 地图与 Instagram 简介）",
+    "address": "Prince Hassan Bin Talal St (Saahat Al-Ain, opposite Abu Jaber Museum), As-Salt",
+    "since": null,
+    "wiki": null,
+    "sources": [
+      "https://www.instagram.com/akthams1881/",
+      "https://cetacademicprograms.com/?p=103948"
+    ],
+    "checked": "2026-10",
+    "popularity": {
+      "instagram": {
+        "handle": "@akthams1881",
+        "followers": 69000,
+        "note": "约 6.9 万粉丝（Instagram 页面 2026-10 查询）"
+      },
+      "google": {
+        "rating": 4.6,
+        "reviews": 1003,
+        "note": "Google 地图 4.6 分（约 1,000 条评价，2026-10 查询）"
+      },
+      "checked": "2026-10"
+    },
+    "areaLocal": {
+      "en": "As-Salt · Old Town (Saahat Al-Ain, opposite Abu Jaber Museum)",
+      "ar": "السلط · البلدة القديمة (ساحة العين، مقابل متحف أبو جابر)"
+    }
+  },
+  {
+    "id": "burj-al-hamam-dead-sea",
+    "name": {
+      "zh": "鸽子塔黎巴嫩餐厅（Burj Al Hamam）",
+      "en": "Burj Al Hamam Dead Sea",
+      "ar": "برج الحمام"
+    },
+    "category": "food",
+    "type": "餐厅",
+    "region": "deadsea",
+    "area": "死海 · 苏韦迈（Sweimeh）酒店区，Crowne Plaza 内",
+    "coords": {
+      "lat": 31.7071,
+      "lng": 35.5835
+    },
+    "why": "死海皇冠假日酒店里的黎巴嫩餐厅，窗外就是死海全景，Google 1,100 多条评价 4.7 分。去死海一日游时，不住酒店也可以来吃一顿正式的黎巴嫩冷热前菜和烤肉。",
+    "signature": [
+      "hummus（鹰嘴豆泥）",
+      "tabbouleh / fattoush（黎巴嫩沙拉）",
+      "rakakat（奶酪酥卷）",
+      "烤肉 kebab khashkhash（番茄辣酱烤肉末）",
+      "炒鸡肝"
+    ],
+    "price": "未查到（2016 年博客记载约 40–60 美元 / 人，可能已变）",
+    "hours": "12:30–22:30（Google 地图）",
+    "address": "Crowne Plaza Jordan Dead Sea Resort & Spa, Dead Sea Road, Sweimeh",
+    "since": null,
+    "wiki": null,
+    "sources": [
+      "https://www.ihg.com/crowneplaza/hotels/gb/en/swemieh/nscjo/hoteldetail/dining",
+      "https://www.nogarlicnoonions.com/burj-al-hamam-a-lebanese-restaurant-on-the-dead-sea",
+      "https://www.instagram.com/crowneplazadeadsea/"
+    ],
+    "checked": "2026-10",
+    "popularity": {
+      "instagram": {
+        "handle": null,
+        "followers": null,
+        "note": "餐厅没有独立账号；所在酒店 @crowneplazadeadsea 约 4.1 万粉丝（2026-10 查询），不是餐厅本身"
+      },
+      "google": {
+        "rating": 4.7,
+        "reviews": 1161,
+        "note": "Google 地图 4.7 分（约 1,160 条评价，2026-10 查询）"
+      },
+      "checked": "2026-10"
+    },
+    "areaLocal": {
+      "en": "Dead Sea · Sweimeh hotel zone (inside Crowne Plaza)",
+      "ar": "البحر الميت · منطقة فنادق السويمة (داخل كراون بلازا)"
+    }
+  }
+]

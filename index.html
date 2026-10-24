@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="zh-Hans">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>约旦打卡</title>
+  <meta name="theme-color" content="#0b1020">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="约旦打卡">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="apple-touch-icon" href="img/icon-180.png">
+  <link rel="icon" href="img/icon-192.png">
+  <link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+  <div id="bg" aria-hidden="true"><div id="bg-img"></div><div id="bg-shade"></div></div>
+  <div id="map-root" hidden><div id="map"></div><div id="map-status" hidden></div></div>
+  <main id="view" tabindex="-1"></main>
+  <nav id="tabs" aria-label="主导航">
+    <a href="#/map" data-tab="map"><span class="ti">🗺</span><span>地图</span></a>
+    <a href="#/nearby" data-tab="nearby"><span class="ti">🧭</span><span>附近</span></a>
+    <a href="#/timeline" data-tab="timeline"><span class="ti">📜</span><span>时间线</span></a>
+    <a href="#/footprints" data-tab="footprints"><span class="ti">👣</span><span>足迹</span></a>
+    <a href="#/backup" data-tab="backup"><span class="ti">⚙️</span><span>备份</span></a>
+  </nav>
+  <div id="overlay" hidden></div>
+  <noscript>这个 App 需要开启 JavaScript。</noscript>
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>
